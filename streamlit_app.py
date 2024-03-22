@@ -61,7 +61,10 @@ def get_gdp_data():
 
 st.header('Streamlit Dataset')
 
+
+
 gdp_df = get_gdp_data()
+st.dataframe(gdp_df)
 
 # -----------------------------------------------------------------------------
 # Draw the actual page
