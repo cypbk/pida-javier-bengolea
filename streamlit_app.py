@@ -3,7 +3,6 @@ import pandas as pd
 import math
 from pathlib import Path
 
-st.header('Streamlit Dataset')
 
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
@@ -58,6 +57,9 @@ def get_gdp_data():
     gdp_df['Year'] = pd.to_numeric(gdp_df['Year'])
 
     return gdp_df
+
+
+st.header('Streamlit Dataset')
 
 gdp_df = get_gdp_data()
 
