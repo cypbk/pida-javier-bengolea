@@ -64,7 +64,11 @@ st.header('Streamlit Dataset')
 
 
 gdp_df = get_gdp_data()
-st.dataframe(gdp_df)
+
+gdp_df_2 = gdp_df.dropna()
+gdp_df_2['GDP'] = gdp_df_2['GDP'].apply(lambda x: round(x / 1000000000,2))
+
+st.dataframe(gdp_df_2.query("GDP > 0"), hide_index=True)
 
 # -----------------------------------------------------------------------------
 # Draw the actual page
@@ -106,7 +110,7 @@ selected_countries = st.multiselect(
 ''
 
 # Filter the data
-filtered_gdp_df = gdp_df[
+filtered_gdp_df = gdp_df_2[
     (gdp_df['Country Code'].isin(selected_countries))
     & (gdp_df['Year'] <= to_year)
     & (from_year <= gdp_df['Year'])
