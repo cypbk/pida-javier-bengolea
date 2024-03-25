@@ -1,6 +1,4 @@
 streamlit-nightly
 pandas
-openpyxl
 matplotlib
-seaborn
 plotly
