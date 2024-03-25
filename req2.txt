@@ -1,4 +1,6 @@
 ydata-profiling
-seaborn-0.12.2
+seaborn==0.12.2
 openpyxl
 nbformat
+researchpy
+ipywidgets
