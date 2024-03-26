@@ -536,13 +536,13 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -58.441545233561044,
-                -34.61963157034328
+                NaN,
+                NaN
             ]
         },
         "properties": {
             "participantes": "MOTO-SD",
-            "direccion": "nan"
+            "direccion": "AUTOPISTA LUGONES PK 10000"
         }
     },
     {
@@ -1488,13 +1488,13 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -58.441545233561044,
-                -34.61963157034328
+                NaN,
+                NaN
             ]
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "nan"
+            "direccion": "AU BUENOS AIRES - LA PLATA KM. 4"
         }
     },
     {
@@ -1663,20 +1663,6 @@
         "properties": {
             "participantes": "CARGAS-CARGAS",
             "direccion": "ALCORTA, AMANCIO AV. y TABORDA, DIOGENES"
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -58.441545233561044,
-                -34.61963157034328
-            ]
-        },
-        "properties": {
-            "participantes": "PEATON-SD",
-            "direccion": "nan"
         }
     },
     {
@@ -1950,8 +1936,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -58.441545233561044,
-                -34.61963157034328
+                NaN,
+                NaN
             ]
         },
         "properties": {
@@ -2468,8 +2454,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -58.441545233561044,
-                -34.61963157034328
+                NaN,
+                NaN
             ]
         },
         "properties": {
@@ -2524,13 +2510,13 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -58.441545233561044,
-                -34.61963157034328
+                NaN,
+                NaN
             ]
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "nan"
+            "direccion": "AU PERITO MORENO Y RAMAL ENLACE AU1/AU6"
         }
     },
     {
@@ -2538,13 +2524,13 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -58.441545233561044,
-                -34.61963157034328
+                NaN,
+                NaN
             ]
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "nan"
+            "direccion": "AU DELLEPIANE 2400"
         }
     },
     {
@@ -3588,8 +3574,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -58.441545233561044,
-                -34.61963157034328
+                NaN,
+                NaN
             ]
         },
         "properties": {
@@ -4386,13 +4372,13 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -58.441545233561044,
-                -34.61963157034328
+                NaN,
+                NaN
             ]
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "nan"
+            "direccion": "AUTOPISTA LUGONES KM 4.7"
         }
     },
     {
@@ -7648,13 +7634,13 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -58.441545233561044,
-                -34.61963157034328
+                NaN,
+                NaN
             ]
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "nan"
+            "direccion": "LUGONES, LEOPOLDO AV. KM 6,1"
         }
     },
     {
@@ -7830,8 +7816,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -58.441545233561044,
-                -34.61963157034328
+                NaN,
+                NaN
             ]
         },
         "properties": {
@@ -8698,13 +8684,13 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -58.441545233561044,
-                -34.61963157034328
+                NaN,
+                NaN
             ]
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "nan"
+            "direccion": "AU BUENOS AIRES LA PLATA  KM 4,5"
         }
     },
     {
