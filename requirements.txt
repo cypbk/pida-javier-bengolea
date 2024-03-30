@@ -1,0 +1,4 @@
+streamlit-nightly
+pandas
+matplotlib
+plotly
