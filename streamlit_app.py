@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import math
 from pathlib import Path
+from streamlit_folium import st_folium
+import folium
 
 
 # Set the title and favicon that appear in the Browser's tab bar.
@@ -21,6 +23,17 @@ st.set_page_config(
 
 '''
 
-data = pd.read_excel('data/homicidios.xlsx', sheet_name='HECHOS')
+data = pd.read_excel('data/generated/data_hm.xlsx')
+data.dropna(inplace=True)
+data = data.rename({'pos_x': 'lon',  'pos_y': 'lat'}, axis=1)
 
-st.dataframe(data, width=600)
+CENTER = (-34.61963157034328,-58.441545233561044)
+
+map = folium.Map(location=CENTER, zoom_start = 12)
+
+for i in data.index:
+    acc = (data.loc[i,'lat'], data.loc[i,'lon'])
+    folium.Marker(acc, popup=data.loc[i,'comuna']).add_to(map)
+
+
+st_folium(map, width=700)
