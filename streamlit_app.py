@@ -24,7 +24,8 @@ st.set_page_config(
 '''
 
 # data = pd.read_excel('data/generated/data_hm.xlsx')
-data = pd.read_csv('https://github.com/javierbengolea/pida-javier-bengolea/blob/main/data/generated/data_hm.csv', sep=',', encoding='utf-8')
+data = pd.read_excel('data/generated/data_hm.xlsx', engine='openpyxl')
+
 # https://github.com/javierbengolea/pida-javier-bengolea/blob/main/data/generated/data_hm.xlsx
 data.dropna(inplace=True)
 data = data.rename({'pos_x': 'lon',  'pos_y': 'lat'}, axis=1)
@@ -39,3 +40,5 @@ for i in data.index:
 
 
 st_folium(map, width=700)
+
+
