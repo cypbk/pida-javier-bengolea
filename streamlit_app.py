@@ -24,7 +24,7 @@ st.set_page_config(
 '''
 
 # data = pd.read_excel('data/generated/data_hm.xlsx')
-data = pd.read_csv('https://github.com/javierbengolea/pida-javier-bengolea/blob/main/data/generated/data_hm.csv', sep=',', encoding='latin-1')
+data = pd.read_csv('data/generated/data_hm.csv', sep=',', encoding='latin-1')
 # https://github.com/javierbengolea/pida-javier-bengolea/blob/main/data/generated/data_hm.xlsx
 data.dropna(inplace=True)
 data = data.rename({'pos_x': 'lon',  'pos_y': 'lat'}, axis=1)
