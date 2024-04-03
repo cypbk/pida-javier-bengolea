@@ -130,4 +130,18 @@ fig = px.bar(grouped_data, x='Day of Week', y='Number of Victims',
 # Show the plot
 st.plotly_chart(fig)
 
+grouped_data = data.groupby(data['fecha_hora'].dt.hour)['n_victimas'].sum().reset_index()
+
+grouped_data = grouped_data.sort_values(by='n_victimas', ascending=True)
+
+# Create a stacked bar plot using Plotly Express
+fig = px.bar(grouped_data, x='n_victimas', y='fecha_hora', 
+             title='Number of Victims by Hour of the Day',
+             color_continuous_scale=["#A1FFA1", "yellow", "red"],
+             labels={'n_victimas': 'Number of Victims'},
+             color='n_victimas', orientation='h')
+
 st.dataframe(grouped_data)
+
+# Show the plot
+st.plotly_chart(fig)
