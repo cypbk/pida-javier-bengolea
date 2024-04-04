@@ -55,26 +55,26 @@ grouped_data.index = grouped_data['fecha_hora']
 grouped_data.rename({'n_victimas': 'n_accidentes'}, axis=1, inplace=True)
 grouped_data.drop('fecha_hora', axis=1,inplace=True)
 
-# Create a Streamlit selectbox for selecting the time interval
-intervalo_select = st.selectbox('Intervalo', ['Anual', 'Semestral', 'Cuatrimestral', 'Trimestral', 'Bimestral', 'Mensual', 'Quincenal', 'Semanal'])
+col_filtro, col_grafico = st.columns(2)
 
-intervalo_dict = dict(zip(['Anual', 'Semestral', 'Cuatrimestral', 'Trimestral', 'Bimestral', 'Mensual', 'Quincenal', 'Semanal'], ['Y', '6M', '4M', '3M', '2M', 'M', '2W', 'W']))
+with col_filtro:
+    # intervalo_select = st.selectbox('Intervalo', ['Anual', 'Semestral', 'Cuatrimestral', 'Trimestral', 'Bimestral', 'Mensual', 'Quincenal', 'Semanal'])
+    intervalo_select = st.selectbox('Intervalo', ['Anual', 'Semestral', 'Mensual'])
 
-# st.write(intervalo_dict[intervalo_select])
+    # intervalo_dict = dict(zip(['Anual', 'Semestral', 'Cuatrimestral', 'Trimestral', 'Bimestral', 'Mensual', 'Quincenal', 'Semanal'], ['Y', '6M', '4M', '3M', '2M', 'M', '2W', 'W']))
+    intervalo_dict = dict(zip(['Anual', 'Semestral', 'Mensual'], ['Y', '6M', 'M']))
+
+    grouped_data = grouped_data.resample(intervalo_dict[intervalo_select], label='right').count()
 
 
 
-# st.dataframe(grouped_data.resample("6M").sum())
+    grouped_data['fecha_hora'] = grouped_data.index.astype(str)
+    
+    grouped_data['mes'] = pd.to_datetime(grouped_data['fecha_hora']).dt.month
+    
+    st.dataframe(grouped_data)
 
-
-grouped_data = grouped_data.resample(intervalo_dict[intervalo_select]).count()
-
-# st.dataframe(grouped_data)
-
-# Convert Period objects to strings
-grouped_data['fecha_hora'] = grouped_data.index.astype(str)
-
-min_year, max_year = st.slider('Select Year Range', 
+    min_year, max_year = st.slider('Select Year Range', 
                                min_value=data['fecha_hora'].dt.to_period('Y').min().year, 
                                max_value=data['fecha_hora'].dt.to_period('Y').max().year, 
                                value=(data['fecha_hora'].dt.to_period('Y').min().year, data['fecha_hora'].dt.to_period('Y').max().year+1))
@@ -82,10 +82,11 @@ min_year, max_year = st.slider('Select Year Range',
 # min_year = 2016
 # max_year = 2022
 
-datos_filtrados_fecha = grouped_data[(grouped_data['fecha_hora'] >= str(min_year)) & (grouped_data['fecha_hora'] <= str(max_year))]
+    datos_filtrados_fecha = grouped_data[(grouped_data['fecha_hora'] >= str(min_year)) & (grouped_data['fecha_hora'] <= str(max_year))]
 
+with col_grafico:
 # Create a line plot using Plotly Express
-fig = px.bar(datos_filtrados_fecha, x='fecha_hora', y='n_accidentes', 
+    fig = px.bar(datos_filtrados_fecha, x='fecha_hora', y='n_accidentes', 
               title='Accidentes el tiempo',
               color='n_accidentes', 
               color_continuous_scale=["lightgreen", "yellow", "red"],
@@ -93,55 +94,56 @@ fig = px.bar(datos_filtrados_fecha, x='fecha_hora', y='n_accidentes',
 
 # # Show the plot
 # fig.show()
-
-st.plotly_chart(fig)
+    fig.update_xaxes(ticks="inside", ticklabelmode='period')
+    # st.write(intervalo_dict[intervalo_select])
+    st.plotly_chart(fig)
 
 # st.sidebar.title("Navigation")
 # selection = st.sidebar.radio('Go to', ['Home', 'Page 1', 'Page 2'])
 
 
-data_by_day = data.groupby(data['fecha_hora'].dt.day_of_week)['n_victimas'].count().reset_index()
-
 grouped_data = data.groupby(data['fecha_hora'].dt.dayofweek)['n_victimas'].count().reset_index()
 
 # Define day names
-day_names = ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo']
+dias = ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo']
+
+dias_dict = {0: 'Lunes', 1: 'Martes', 2: 'Miércoles', 3: 'Jueves', 4: 'Viernes', 5: 'Sábado', 6: 'Domingo'}
 
 # Map day of week to day name
-grouped_data['day_of_week'] = grouped_data['fecha_hora'].map(lambda x: day_names[x])
+grouped_data['dia_semana'] = grouped_data['fecha_hora'].map(dias_dict)
 
-# Drop the 'fecha_hora' column
 grouped_data.drop(columns=['fecha_hora'], inplace=True)
 
-# Rename the columns
-grouped_data.columns = ['Day of Week', 'Number of Victims']
+grouped_data.columns = ['nro_accidentes', 'dia_semana']
 
 # Sort the data in descending order
-grouped_data = grouped_data.sort_values(by='Day of Week', ascending=True)
+grouped_data = grouped_data.sort_values(by='nro_accidentes', ascending=True)
 
 # Create a stacked bar plot using Plotly Express
-fig = px.bar(grouped_data, x='Day of Week', y='Number of Victims', 
-             title='Number of Victims by Day of Week',
-             color='Day of Week',
+fig = px.bar(grouped_data, x='nro_accidentes', y='dia_semana', 
+             title='Accidentes por Día de la Semana',
+             color='nro_accidentes',
              color_continuous_scale=["#A1FFA1", "yellow", "red"],
-             labels={'Number of Victims': 'Number of Victims'},
-             category_orders={'Day of Week': day_names})
+             labels={'dia_semana': 'Dia de la Semana', 'nro_accidentes': 'Accidentes'}
+            #  ,              category_orders={'Day of Week': day_names}
+             )
 
 # Show the plot
-st.plotly_chart(fig)
+# st.plotly_chart(fig)
+
+tab1, tab2 = st.tabs(["📈 Gráfico", "🗃 Datos"])
+
+tab1.plotly_chart(fig)
+
+tab2.dataframe(grouped_data)
 
 grouped_data = data.groupby(data['fecha_hora'].dt.hour)['n_victimas'].sum().reset_index()
 
-grouped_data = grouped_data.sort_values(by='n_victimas', ascending=True)
-
 # Create a stacked bar plot using Plotly Express
-fig = px.bar(grouped_data, x='n_victimas', y='fecha_hora', 
+fig = px.bar(grouped_data, x='fecha_hora', y='n_victimas', 
              title='Number of Victims by Hour of the Day',
-             color_continuous_scale=["#A1FFA1", "yellow", "red"],
-             labels={'n_victimas': 'Number of Victims'},
-             color='n_victimas', orientation='h')
-
-st.dataframe(grouped_data)
+             labels={'fecha_hora': 'Hour of the Day', 'n_victimas': 'Number of Victims'},
+             color='fecha_hora')
 
 # Show the plot
 st.plotly_chart(fig)
