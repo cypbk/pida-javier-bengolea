@@ -536,8 +536,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                NaN,
-                NaN
+                0.0,
+                0.0
             ]
         },
         "properties": {
@@ -1488,8 +1488,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                NaN,
-                NaN
+                0.0,
+                0.0
             ]
         },
         "properties": {
@@ -1929,20 +1929,6 @@
         "properties": {
             "participantes": "MOTO-CARGAS",
             "direccion": "DIRECTORIO AV. y SAN PEDRITO AV."
-        }
-    },
-    {
-        "type": "Feature",
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                NaN,
-                NaN
-            ]
-        },
-        "properties": {
-            "participantes": "SD-SD",
-            "direccion": "AUTOPISTA 25 DE MAYO"
         }
     },
     {
@@ -2454,8 +2440,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                NaN,
-                NaN
+                0.0,
+                0.0
             ]
         },
         "properties": {
@@ -2510,8 +2496,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                NaN,
-                NaN
+                0.0,
+                0.0
             ]
         },
         "properties": {
@@ -2524,8 +2510,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                NaN,
-                NaN
+                0.0,
+                0.0
             ]
         },
         "properties": {
@@ -3574,8 +3560,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                NaN,
-                NaN
+                0.0,
+                0.0
             ]
         },
         "properties": {
@@ -4372,8 +4358,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                NaN,
-                NaN
+                0.0,
+                0.0
             ]
         },
         "properties": {
@@ -7634,8 +7620,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                NaN,
-                NaN
+                0.0,
+                0.0
             ]
         },
         "properties": {
@@ -7816,8 +7802,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                NaN,
-                NaN
+                0.0,
+                0.0
             ]
         },
         "properties": {
@@ -8684,8 +8670,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                NaN,
-                NaN
+                0.0,
+                0.0
             ]
         },
         "properties": {
