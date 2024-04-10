@@ -37,3 +37,32 @@ state_data = pd.read_csv(state_unemployment)
 
 print(state_geo)
 
+from shapely.geometry import Polygon
+import ast
+
+# Convertir la cadena a una estructura de datos que pueda ser procesada
+coordinates = ast.literal_eval("[[-58.4528200492791, -34.5959886570639],[-58.453655193137, -34.5965557163041],[-58.4537674321647,-34.5966342484151]]")
+
+# Crear el polígono
+polygon = Polygon(coordinates)
+
+# Imprimir el polígono
+print(polygon)
+
+plt.hist(pd.merge(data_hm, data_vm, how='left', left_on='ID', right_on='ID_hecho').query("EDAD != 'SD'")['EDAD'].astype(int))
+
+from shapely.geometry import Polygon, MultiPolygon
+import ast
+
+# Convertir la cadena a una estructura de datos que pueda ser procesada
+coordinates = ast.literal_eval("[[[-58.4528200492791, -34.5959886570639],[-58.453655193137, -34.5965557163041],[-58.4537674321647,-34.5966342484151]]]")
+
+# Crear los polígonos individuales a partir de las coordenadas
+polygons = [Polygon(coords) for coords in coordinates]
+
+# Crear el multipolígono
+multipolygon = MultiPolygon(polygons)
+
+# Imprimir el multipolígono
+# print(multipolygon)
+# geopandas.GeoSeries([multipolygon]).__geo_interface__
