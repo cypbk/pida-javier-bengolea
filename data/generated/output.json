@@ -10,7 +10,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "PIEDRA BUENA AV. y FERNANDEZ DE LA CRUZ, F., GRAL. AV."
+            "direccion": "AV PIEDRA BUENA Y AV FERNANDEZ DE LA CRUZ"
         }
     },
     {
@@ -24,7 +24,7 @@
         },
         "properties": {
             "participantes": "AUTO-PASAJEROS",
-            "direccion": "PAZ, GRAL. AV. y DE LOS CORRALES AV."
+            "direccion": "AV GRAL PAZ  Y AV DE LOS CORRALES"
         }
     },
     {
@@ -38,7 +38,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "ENTRE RIOS AV. 2034"
+            "direccion": "AV ENTRE RIOS 2034"
         }
     },
     {
@@ -52,7 +52,7 @@
         },
         "properties": {
             "participantes": "MOTO-SD",
-            "direccion": "LARRAZABAL AV. y VILLEGAS, CONRADO, GRAL."
+            "direccion": "AV LARRAZABAL Y GRAL VILLEGAS CONRADO"
         }
     },
     {
@@ -66,7 +66,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "SAN JUAN AV. y SAENZ PE\u00c3\u2018A, LUIS, PRES."
+            "direccion": "AV SAN JUAN Y PRESIDENTE LUIS SAENZ PE\u00d1A "
         }
     },
     {
@@ -80,7 +80,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "27 DE FEBRERO AV. y ESCALADA AV."
+            "direccion": "AV 27 DE FEBRERO Y AV ESCALADA"
         }
     },
     {
@@ -94,7 +94,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "NOGOYA y GONZALEZ, JOAQUIN V."
+            "direccion": "NOGOYA Y JOAQUIN V. GONZALES"
         }
     },
     {
@@ -108,7 +108,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y DE LOS CORRALES AV."
+            "direccion": "AV GENERAL PAZ Y AV DE LOS CORRALES"
         }
     },
     {
@@ -122,7 +122,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "BELGRANO AV. e IRIGOYEN, BERNARDO DE"
+            "direccion": "AV BELGRANO Y BERNARDO DE IRIGOYEN"
         }
     },
     {
@@ -136,7 +136,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "ENTRE RIOS AV. 1366"
+            "direccion": "AV ENTRE RIOS 1366"
         }
     },
     {
@@ -150,7 +150,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "SCALABRINI ORTIZ, RAUL AV. y VERA"
+            "direccion": "AV SCALABRINI ORTIZ Y VERA"
         }
     },
     {
@@ -164,7 +164,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "REGIMIENTO DE PATRICIOS AV. y QUINQUELA MARTIN, BENITO"
+            "direccion": "AV REGIMIENTO DE PATRICIOS Y QUINQUELA MARTIN BENITO"
         }
     },
     {
@@ -178,7 +178,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "ACOSTA, MARIANO y JANER, ANA MARIA"
+            "direccion": "MARIANO ACOSTA Y ANA MARIA JANER"
         }
     },
     {
@@ -192,7 +192,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "DE LA TORRE, LISANDRO y GARCIA GRANDE DE ZEQUEIRA, SEVERO"
+            "direccion": "LISANDRO DE LA TORRE Y SEVERO GARCIA GRANDE DE ZEQUEIRA "
         }
     },
     {
@@ -220,7 +220,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "DIRECTORIO AV. y CURAPALIGUE"
+            "direccion": "AV DIRECTORIO Y CURAPALIGUE"
         }
     },
     {
@@ -234,7 +234,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "9 DE JULIO AV. y ALSINA, ADOLFO"
+            "direccion": "AV 9 DE JULIO Y ADOLFO ALSINA"
         }
     },
     {
@@ -248,7 +248,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y 27 DE FEBRERO AV."
+            "direccion": "AV GRAL PAZ Y AV 27 DE FEBRERO"
         }
     },
     {
@@ -262,7 +262,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "HOLMBERG y VEDIA"
+            "direccion": "HOLMBERG Y VEDIA"
         }
     },
     {
@@ -276,7 +276,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "CURAPALIGUE AV. y DIAZ, AVELINO"
+            "direccion": "CURAPALIGUE Y AVELINO DIAZ"
         }
     },
     {
@@ -290,7 +290,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "VIAMONTE y 9 DE JULIO AV."
+            "direccion": "VIAMONTE Y AV 9 DE JULIO"
         }
     },
     {
@@ -304,7 +304,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CABILDO AV. y DEHEZA"
+            "direccion": "AV CABILDO Y DEHEZA"
         }
     },
     {
@@ -318,7 +318,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "PAZ, GRAL. AV. y ROCA, CNEL. AV."
+            "direccion": "AV GRAL PAZ Y AV CNEL ROCA"
         }
     },
     {
@@ -332,7 +332,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "ALCORTA, AMANCIO AV. y BONAVENA, OSCAR NATALIO"
+            "direccion": "AV AMANCIO ALCORTA Y BONAVENA"
         }
     },
     {
@@ -346,7 +346,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "CORRIENTES AV. y CALLAO AV."
+            "direccion": "AV CORRIENTES Y AV CALLAO"
         }
     },
     {
@@ -360,7 +360,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "HERRERA y VALLE, ARISTOBULO DEL"
+            "direccion": "HERRERA Y ARISTOBULO DEL VALLE"
         }
     },
     {
@@ -374,7 +374,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "LAFUENTE AV. y QUIRNO"
+            "direccion": "AV. EVA PERON Y QUIRNO"
         }
     },
     {
@@ -388,7 +388,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "PAZ, GRAL. AV. y ZUVIRIA"
+            "direccion": "AV GRAL PAZ COLECTORA Y ZUVIRIA"
         }
     },
     {
@@ -402,7 +402,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "MITRE, BARTOLOME y PUEYRREDON AV."
+            "direccion": "BARTOLOME MITRE Y AV PUEYRREDON"
         }
     },
     {
@@ -416,7 +416,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "DIRECTORIO AV. y RIVERA INDARTE AV."
+            "direccion": "AV DIRECTORIO Y RIVERA INDARTE"
         }
     },
     {
@@ -430,7 +430,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "DELLEPIANE, LUIS, TTE. GRAL. y MURGUIONDO"
+            "direccion": "DELLEPIANE LUIS TTE GRAL COLECTORA Y MURGUIONDO"
         }
     },
     {
@@ -444,7 +444,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "MORENO, JOSE MARIA AV. y BALBASTRO"
+            "direccion": "AV JOSE MARIA MORENO Y BALBASTRO"
         }
     },
     {
@@ -458,7 +458,7 @@
         },
         "properties": {
             "participantes": "MOTO-SD",
-            "direccion": "PAZ, GRAL. AV. y DEL LIBERTADOR AV."
+            "direccion": "AV GRAL PAZ Y AV DEL LIBERTADOR"
         }
     },
     {
@@ -486,7 +486,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CORRIENTES AV. y DORREGO AV."
+            "direccion": "AV. CORRIENTES Y AV. DORREGO"
         }
     },
     {
@@ -500,7 +500,7 @@
         },
         "properties": {
             "participantes": "SD-SD",
-            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI"
+            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI KM. 0,700"
         }
     },
     {
@@ -514,7 +514,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "GORDILLO, TIMOTEO y FERNANDEZ DE LA CRUZ, F., GRAL. AV."
+            "direccion": "TIMOTEO GORDILLO Y AV FERNANDEZ DE LA CRUZ"
         }
     },
     {
@@ -528,7 +528,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "ALCORTA, AMANCIO AV. y BONAVENA, OSCAR NATALIO"
+            "direccion": "AV AMANCIO ALCORTA Y BONAVENA"
         }
     },
     {
@@ -556,7 +556,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "TRIUNVIRATO AV. y OLAZABAL AV."
+            "direccion": "AV TRIUNVIRATO Y AV OLAZABAL"
         }
     },
     {
@@ -570,7 +570,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "AUTOPISTA DELLEPIANE LUIS TTE. GRAL. y PAZ, GRAL. AV."
+            "direccion": "AU LUIS DELLEPIANE Y AV GRAL PAZ"
         }
     },
     {
@@ -584,7 +584,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "CASTILLA, RAMON, MARISCAL y FIGUEROA ALCORTA, PRES. AV."
+            "direccion": "RAMON CASTILLA Y AV FIGUEROA ALCORTA"
         }
     },
     {
@@ -598,7 +598,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "CAMPOS, LUIS M. AV. 30"
+            "direccion": "AV LUIS MARIA CAMPOS 30"
         }
     },
     {
@@ -626,7 +626,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CIUDADELA y LIMA"
+            "direccion": "PASAJE CIUDADELA Y LIMA OESTE"
         }
     },
     {
@@ -640,7 +640,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "JUSTO, JUAN B. AV. y CARRASCO AV."
+            "direccion": "AV JUAN B JUSTO Y AV CARRASCO"
         }
     },
     {
@@ -654,7 +654,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "GAONA AV. y ESPINOSA"
+            "direccion": "AV GAONA Y ESPINOSA"
         }
     },
     {
@@ -668,7 +668,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "DE LA TORRE, LISANDRO y SARAZA"
+            "direccion": "AV LISANDRO DE LA TORRE Y SARAZA"
         }
     },
     {
@@ -682,7 +682,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "FIGUEROA ALCORTA, PRES. AV. y PUEYRREDON AV."
+            "direccion": "AV FIGUEROA ALCORTA Y AV PUEYRREDON"
         }
     },
     {
@@ -696,7 +696,7 @@
         },
         "properties": {
             "participantes": "AUTO-CARGAS",
-            "direccion": "ENTRE RIOS AV. y FILIBERTO"
+            "direccion": "AV ENTRE RIOS Y PASAJE FILIBERTO"
         }
     },
     {
@@ -710,7 +710,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "MAGARI\u00c3\u2018OS CERVANTES, A. 3900"
+            "direccion": "MAGARI\u00d1OS CERVANTES 3900"
         }
     },
     {
@@ -724,7 +724,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y SCAPINO, RODOLFO"
+            "direccion": "AV GRAL PAZ Y RODOLFO SCAPINO"
         }
     },
     {
@@ -738,7 +738,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "AUTOPISTA DELLEPIANE LUIS TTE. GRAL. y MIRALLA"
+            "direccion": "AUTOPISTA DELLEPIANE LUIS TTE GRAL Y MIRALLA"
         }
     },
     {
@@ -752,7 +752,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "SAN MARTIN AV. y CAMARONES"
+            "direccion": "AV SAN MARTIN Y CAMARONES"
         }
     },
     {
@@ -766,7 +766,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL y ALEM, LEANDRO N. AV."
+            "direccion": "TTEG JUAN D PERON Y AVDA LEANDRO N ALEM"
         }
     },
     {
@@ -780,7 +780,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "BELGRANO AV. y JUJUY AV."
+            "direccion": "AV BELGRANO Y AV JUJUY"
         }
     },
     {
@@ -794,7 +794,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "DEL LIBERTADOR AV. y UDAONDO, GUILLERMO AV."
+            "direccion": "AV DEL LIBERTADOR Y AV GUILLERMO UDAONDO"
         }
     },
     {
@@ -808,7 +808,7 @@
         },
         "properties": {
             "participantes": "AUTO-SD",
-            "direccion": "PAZ, GRAL. AV. y RIVADAVIA AV."
+            "direccion": "AV GRAL PAZ Y AV RIVADAVIA"
         }
     },
     {
@@ -822,7 +822,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "LARRALDE, CRISOLOGO AV. y MACHAIN"
+            "direccion": "AV CRISOLOGO LARRALDE Y MACHAIN"
         }
     },
     {
@@ -836,7 +836,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "LA PLATA AV. 2384"
+            "direccion": "AV LA PLATA 2384"
         }
     },
     {
@@ -850,7 +850,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "ALBERDI, JUAN BAUTISTA AV. y PUAN"
+            "direccion": "AV JUAN B ALBERDI Y PUAN"
         }
     },
     {
@@ -864,7 +864,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "PELLEGRINI, CARLOS y TUCUMAN"
+            "direccion": "CARLOS PELLEGRINI Y TUCUMAN"
         }
     },
     {
@@ -878,7 +878,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOVIL",
-            "direccion": "RABANAL, FRANCISCO, INTENDENTE AV. y EREZCANO"
+            "direccion": "AVDA ITE FRANCISCO RABANAL & AVDA EREZCANO"
         }
     },
     {
@@ -892,7 +892,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "OLIVERA AV. y FALCON, RAMON L.,CNEL."
+            "direccion": "AV OLIVERA Y RAMON FALCON"
         }
     },
     {
@@ -906,7 +906,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI y CASEROS AV."
+            "direccion": "AUTOPISTA 1 SUR PTE ARTURO FRONDIZI Y AV CASEROS"
         }
     },
     {
@@ -920,7 +920,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "CERETTI y NU\u00c3\u2018EZ"
+            "direccion": "CERETTI Y NU\u00d1EZ"
         }
     },
     {
@@ -934,7 +934,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "LUGONES, LEOPOLDO AV. y LA PAMPA"
+            "direccion": "AV LUGONES Y LA PAMPA"
         }
     },
     {
@@ -948,7 +948,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "SALGUERO, JERONIMO y RIVADAVIA AV."
+            "direccion": "JERONIMO SALGUERO Y AV RIVADAVIA"
         }
     },
     {
@@ -962,7 +962,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "PAZ, GRAL. AV. y DEL LIBERTADOR AV."
+            "direccion": "AV GRAL PAZ Y AV LIBERTADOR "
         }
     },
     {
@@ -976,7 +976,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "ALBERDI, JUAN BAUTISTA AV. y MITRE, EMILIO"
+            "direccion": "AV JUAN B ALBERDI Y EMILIO MITRE"
         }
     },
     {
@@ -990,7 +990,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "MERCEDES y MOSCONI GENERAL AV."
+            "direccion": "MERCEDES Y AV GRAL MOSCONI"
         }
     },
     {
@@ -1004,7 +1004,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "AUTOPISTA DELLEPIANE LUIS TTE. GRAL."
+            "direccion": "AUTOPISTA DELLEPIANE LUIS TTE. GRAL. KM. 2,3"
         }
     },
     {
@@ -1018,7 +1018,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "SOLIS y MEXICO"
+            "direccion": "SOLIS Y MEXICO"
         }
     },
     {
@@ -1032,7 +1032,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "SAN JUAN AV. y ALBERTI"
+            "direccion": "AV SAN JUAN Y ALBERTI"
         }
     },
     {
@@ -1046,7 +1046,7 @@
         },
         "properties": {
             "participantes": "CARGAS-CARGAS",
-            "direccion": "MOSCONI GENERAL AV. y PAZ, GRAL. AV."
+            "direccion": "AV GRAL MOSCONI Y AV GRAL PAZ"
         }
     },
     {
@@ -1060,7 +1060,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "PAZ, GRAL. AV. y DONADO"
+            "direccion": "AV GRAL PAZ  Y DONADO"
         }
     },
     {
@@ -1074,7 +1074,7 @@
         },
         "properties": {
             "participantes": "SD-SD",
-            "direccion": "PAZ, GRAL. AV. y CHAVEZ, JORGE"
+            "direccion": "AV GRAL PAZ Y JORGE CHAVEZ"
         }
     },
     {
@@ -1088,7 +1088,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "PERON, EVA AV. y SUAREZ, JOSE LEON"
+            "direccion": "AV EVA PERON Y JOSE LEON SUAREZ"
         }
     },
     {
@@ -1102,7 +1102,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "ZINNY y SANTIAGO DE COMPOSTELA AV."
+            "direccion": "ZINNY Y AV SANTIAGO DE COMPOSTELA"
         }
     },
     {
@@ -1116,7 +1116,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "LACROZE, FEDERICO AV. y FRAGA"
+            "direccion": "AV FEDERICO LACROZE Y FRAGA"
         }
     },
     {
@@ -1130,7 +1130,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "PELLEGRINI, CARLOS y DEL LIBERTADOR AV."
+            "direccion": "CARLOS PELLEGRINI Y AV DEL LIBERTADOR"
         }
     },
     {
@@ -1144,7 +1144,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI y DON PEDRO DE MENDOZA AV."
+            "direccion": "AUTOPISTA 9 DE JULIO SUR ALT AV MENDOZA"
         }
     },
     {
@@ -1158,7 +1158,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "AUTOPISTA PERITO MORENO y BARRAGAN"
+            "direccion": "AUTOPISTA PERITO MORENO Y BARRAGAN"
         }
     },
     {
@@ -1172,7 +1172,7 @@
         },
         "properties": {
             "participantes": "PEATON-SD",
-            "direccion": "ALBERDI, JUAN BAUTISTA AV. y CARHUE"
+            "direccion": "AV ALBERDI Y CARHUE"
         }
     },
     {
@@ -1186,7 +1186,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "LUGONES y LA PAMPA"
+            "direccion": "AUTOPISTA LEOPOLDO LUGONES Y LA PAMPA"
         }
     },
     {
@@ -1200,7 +1200,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "AUTOPISTA 25 DE MAYO y AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI"
+            "direccion": "AUTOPISTA 25 DE MAYO AUTOPISTA 1 SUR ARTURO FRONDIZI"
         }
     },
     {
@@ -1214,7 +1214,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "ALBERDI, JUAN BAUTISTA AV. y GUARDIA NACIONAL"
+            "direccion": "AV JUAN BAUTISTA ALBERDI Y GUARDIA NACIONAL"
         }
     },
     {
@@ -1228,7 +1228,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-CARGAS",
-            "direccion": "SALGUERO, JERONIMO 1410"
+            "direccion": "SALGUERO 1410"
         }
     },
     {
@@ -1242,7 +1242,7 @@
         },
         "properties": {
             "participantes": "SD-CARGAS",
-            "direccion": "ARIAS y TRONADOR"
+            "direccion": "ARIAS Y TRONADOR"
         }
     },
     {
@@ -1256,7 +1256,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "27 DE FEBRERO AV. y ESCALADA AV."
+            "direccion": "AV 27 DE FEBRERO Y AV ESCALADA"
         }
     },
     {
@@ -1270,7 +1270,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "DEL LIBERTADOR AV. y TAGLE"
+            "direccion": "AV DEL LIBERTADOR Y TAGLE"
         }
     },
     {
@@ -1284,7 +1284,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI KM. 2.9"
+            "direccion": "AUTOPISTA 1 SUR PTE ARTURO FRONDIZI KM 2.9"
         }
     },
     {
@@ -1298,7 +1298,7 @@
         },
         "properties": {
             "participantes": "SD-SD",
-            "direccion": "LARRALDE, CRISOLOGO AV. y TRIUNVIRATO AV."
+            "direccion": "CRISOLOGO LARRALDE Y AVDA TRIUNVIRATO"
         }
     },
     {
@@ -1312,7 +1312,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-PASAJEROS",
-            "direccion": "PERON, EVA AV. 4233"
+            "direccion": "AV EVA PERON 4233"
         }
     },
     {
@@ -1326,7 +1326,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "ASAMBLEA AV. y BONORINO, ESTEBAN, CNEL. AV."
+            "direccion": "AV ASAMBLEA Y AV CNEL ESTEBAN BONORINO"
         }
     },
     {
@@ -1340,7 +1340,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "RIVADAVIA AV. y RIVERA INDARTE AV."
+            "direccion": "AVDA RIVADAVIA Y RIVERA INDARTE"
         }
     },
     {
@@ -1354,7 +1354,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "AUTOPISTA PERITO MORENO y ALBERDI, JUAN BAUTISTA AV."
+            "direccion": "AUTOPISTA PERITO MORENO Y AV JUAN B ALBERDI"
         }
     },
     {
@@ -1368,7 +1368,7 @@
         },
         "properties": {
             "participantes": "AUTO-CARGAS",
-            "direccion": "IRIGOYEN y TINOGASTA"
+            "direccion": "IRIGOYEN Y TINOGASTA"
         }
     },
     {
@@ -1382,7 +1382,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "ACOSTA, MARIANO y ROCA, CNEL. AV."
+            "direccion": "AV MARIANO ACOSTA Y AV CNEL ROCA"
         }
     },
     {
@@ -1396,7 +1396,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CASTRO y PAVON AV."
+            "direccion": "CASTRO Y AV PAVON"
         }
     },
     {
@@ -1410,7 +1410,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI y BRASIL"
+            "direccion": "AUTOPISTA 9 DE JULIO SUR Y AV BRASIL"
         }
     },
     {
@@ -1438,7 +1438,7 @@
         },
         "properties": {
             "participantes": "AUTO-PASAJEROS",
-            "direccion": "SAN JUAN AV. y 24 DE NOVIEMBRE"
+            "direccion": "AV SAN JUAN Y 24 DE NOVIEMBRE"
         }
     },
     {
@@ -1452,7 +1452,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "LAS HERAS GENERAL AV. y SANCHEZ DE BUSTAMANTE"
+            "direccion": "AV LAS HERAS Y SANCHEZ DE BUSTAMANTE"
         }
     },
     {
@@ -1466,7 +1466,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "PIEDRA BUENA AV. y 2 DE ABRIL DE 1982"
+            "direccion": "AV PIEDRA BUENA Y 2 DE ABRIL 1982"
         }
     },
     {
@@ -1480,7 +1480,7 @@
         },
         "properties": {
             "participantes": "PEATON-SD",
-            "direccion": "FIGUEROA ALCORTA, PRES. AV. y PINEDO, INT."
+            "direccion": "AV FIGUEROA ALCORTA  Y PINEDO"
         }
     },
     {
@@ -1508,7 +1508,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "SAN MARTIN AV. y LADINES"
+            "direccion": "AV SAN MARTIN Y LADINES"
         }
     },
     {
@@ -1522,7 +1522,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-CARGAS",
-            "direccion": "CABILDO AV. y BLANCO ENCALADA"
+            "direccion": "AV CABILDO Y BLANCO ENCALADA"
         }
     },
     {
@@ -1536,7 +1536,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "FIGUEROA ALCORTA, PRES. AV. y DORREGO AV."
+            "direccion": "AV PRESIDENTE FIGUEROA ALCORTA Y AV DORREGO"
         }
     },
     {
@@ -1550,7 +1550,7 @@
         },
         "properties": {
             "participantes": "PASAJEROS-PASAJEROS",
-            "direccion": "JURAMENTO AV. y VUELTA DE OBLIGADO"
+            "direccion": "AV JURAMENTO Y VUELTA DE OBLIGADO"
         }
     },
     {
@@ -1564,7 +1564,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "DEL LIBERTADOR AV. y RAMOS MEJIA, JOSE MARIA, DR. AV."
+            "direccion": "AV DEL LIBERTADOR Y AV RAMOS MEJIA"
         }
     },
     {
@@ -1578,7 +1578,7 @@
         },
         "properties": {
             "participantes": "MOTO-SD",
-            "direccion": "27 DE FEBRERO AV. y ESCALADA AV."
+            "direccion": "AV 27 DE FEBRERO Y AV ESCALADA"
         }
     },
     {
@@ -1592,7 +1592,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "BROWN, ALTE. AV. 984"
+            "direccion": "AV. ALTE. BROWN 984"
         }
     },
     {
@@ -1606,7 +1606,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "DEL LIBERTADOR AV. y LA PAMPA"
+            "direccion": "AV DEL LIBERTADOR Y LA PAMPA"
         }
     },
     {
@@ -1620,7 +1620,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "PICHINCHA AV. y BRASIL"
+            "direccion": "PICHINCHA Y AV BRASIL"
         }
     },
     {
@@ -1634,7 +1634,7 @@
         },
         "properties": {
             "participantes": "MOVIL-PASAJEROS",
-            "direccion": "INDEPENDENCIA AV. y CEVALLOS, VIRREY"
+            "direccion": "AV INDEPENDENCIA Y VIRREY CEVALLOS"
         }
     },
     {
@@ -1648,7 +1648,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "GARMENDIA AV. 4895"
+            "direccion": "AV GARMENDIA 4895"
         }
     },
     {
@@ -1662,7 +1662,7 @@
         },
         "properties": {
             "participantes": "CARGAS-CARGAS",
-            "direccion": "ALCORTA, AMANCIO AV. y TABORDA, DIOGENES"
+            "direccion": "AV AMANCIO ALCORTA Y DIOGENES TABORDA"
         }
     },
     {
@@ -1676,7 +1676,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "MORENO, PERITO AV. y ZUVIRIA"
+            "direccion": "AV PERITO MORENO Y ZUVIRIA"
         }
     },
     {
@@ -1690,7 +1690,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "ARAOZ y CORDOBA AV."
+            "direccion": "ARAOZ Y AV CORDOBA"
         }
     },
     {
@@ -1704,7 +1704,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "PAZ, GRAL. AV. 15200"
+            "direccion": "AV GRAL PAZ 15200"
         }
     },
     {
@@ -1732,7 +1732,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "INDEPENDENCIA AV. y DEAN FUNES"
+            "direccion": "AV INDEPENDENCIA Y DEAN FUNES"
         }
     },
     {
@@ -1746,7 +1746,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "JUSTO, JUAN B. AV. 5645"
+            "direccion": "AV JUAN B JUSTO 5645"
         }
     },
     {
@@ -1760,7 +1760,7 @@
         },
         "properties": {
             "participantes": "AUTO-SD",
-            "direccion": "27 DE FEBRERO AV. y ESCALADA AV."
+            "direccion": "AV 27 DE FEBRERO Y AV ESCALADA"
         }
     },
     {
@@ -1774,7 +1774,7 @@
         },
         "properties": {
             "participantes": "CARGAS-OBJETO FIJO",
-            "direccion": "AUTOPISTA PERITO MORENO (ALTURA VELEZ SARSFIELD)"
+            "direccion": "AUTOPISTA PERITO MORENO ALTURA VELZ"
         }
     },
     {
@@ -1788,7 +1788,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "SANTA FE AV. y GODOY CRUZ"
+            "direccion": "AV SANTA FE Y GODOY CRUZ"
         }
     },
     {
@@ -1802,7 +1802,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "LACROZE, FEDERICO AV. y FOREST AV."
+            "direccion": "AV FEDERICO LACROZE Y AV FOREST"
         }
     },
     {
@@ -1816,7 +1816,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y MOSCONI GENERAL AV."
+            "direccion": "AV GRAL PAZ Y AV GENERAL MOSCONI"
         }
     },
     {
@@ -1830,7 +1830,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "LA PLATA AV. y POMAR, GREGORIO TTE. CNEL."
+            "direccion": "AV LA PLATA Y CNEL GREGORIO POMAR"
         }
     },
     {
@@ -1844,7 +1844,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-PASAJEROS",
-            "direccion": "GARCIA, MARTIN AV. 300"
+            "direccion": "AV MARTIN GARCIA 300"
         }
     },
     {
@@ -1858,7 +1858,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "LA PLATA AV. y POMAR, GREGORIO TTE. CNEL."
+            "direccion": "AV LA PLATA Y CNEL GREGORIO POMAR"
         }
     },
     {
@@ -1872,7 +1872,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "NU\u00c3\u2018EZ y BALBIN, RICARDO, DR. AV."
+            "direccion": "NU\u00d1EZ Y AV RICARDO BALBIN"
         }
     },
     {
@@ -1886,7 +1886,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. 4500"
+            "direccion": "AV GRAL PAZ 4500"
         }
     },
     {
@@ -1900,7 +1900,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "HUERGO, ING. AV. y AUTOPISTA 25 DE MAYO"
+            "direccion": "AU BUENOS AIRES - LA PLATA Y AU 25 DE MAYO"
         }
     },
     {
@@ -1914,7 +1914,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "GARAY, JUAN DE AV. y CASTRO"
+            "direccion": "AV GARAY Y CASTRO"
         }
     },
     {
@@ -1928,7 +1928,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "DIRECTORIO AV. y SAN PEDRITO AV."
+            "direccion": "AV DIRECTORIO Y AV SAN PEDRITO"
         }
     },
     {
@@ -1942,7 +1942,7 @@
         },
         "properties": {
             "participantes": "PEATON-BICICLETA",
-            "direccion": "FALCON, RAMON L.,CNEL. y MEMBRILLAR"
+            "direccion": "CNEL RAMON L FALCON Y MEMBRILLAR"
         }
     },
     {
@@ -1956,7 +1956,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "BELGRANO AV. y PASEO COLON AV."
+            "direccion": "AV BELGRANO Y AV PASEO COLON"
         }
     },
     {
@@ -1984,7 +1984,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA y SAAVEDRA"
+            "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA Y SAAVEDRA"
         }
     },
     {
@@ -1998,7 +1998,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "JUSTO, JUAN B. AV. y ACHUPALLAS"
+            "direccion": "AV. JUAN B JUSTO Y ACHUPALLAS"
         }
     },
     {
@@ -2012,7 +2012,7 @@
         },
         "properties": {
             "participantes": "CARGAS-CARGAS",
-            "direccion": "OLAVARRIA y VELEZ SARSFIELD AV."
+            "direccion": "OLAVARRIA Y AV. VELEZ SARSFIELD"
         }
     },
     {
@@ -2026,7 +2026,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "LIMA y MEXICO"
+            "direccion": "LIMA Y MEXICO"
         }
     },
     {
@@ -2040,7 +2040,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "CABRERA, JOSE A. y BONPLAND"
+            "direccion": "JOSE A CABRERA Y BONPLAND"
         }
     },
     {
@@ -2054,7 +2054,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "AUTOPISTA 25 DE MAYO y BOEDO AV."
+            "direccion": "AU 25 DE MAYO Y AV. BOEDO"
         }
     },
     {
@@ -2068,7 +2068,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "DIRECTORIO AV. y RIGLOS"
+            "direccion": "AV. DIRECTORIO Y RIGLOS"
         }
     },
     {
@@ -2082,7 +2082,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "PAZ, GRAL. AV. y BALBIN, RICARDO, DR. AV."
+            "direccion": "AV. GRAL. PAZ Y AV. R. BALBIN"
         }
     },
     {
@@ -2096,7 +2096,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "TRAFUL y TABORDA, DIOGENES"
+            "direccion": "TRAFUL Y DIOGENES TABORDA"
         }
     },
     {
@@ -2110,7 +2110,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "IRIARTE, GRAL. AV. 3055"
+            "direccion": "IRIARTE 3055"
         }
     },
     {
@@ -2124,7 +2124,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "DONADO y ARIAS"
+            "direccion": "AV. DONADO Y ARIAS"
         }
     },
     {
@@ -2138,7 +2138,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "CORDOBA AV. y CALLAO AV."
+            "direccion": "CORDOBA AV. Y CALLAO"
         }
     },
     {
@@ -2152,7 +2152,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "AUTOPISTA 25 DE MAYO KM. 8.3"
+            "direccion": "AU 25 DE MAYO, KILOMETRO 8.3, SENTIDO HACIA PROVINCIA DE BUENOS AIRES, C.A.B.A."
         }
     },
     {
@@ -2166,7 +2166,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "JUSTO, JUAN B. AV. y PARAGUAY"
+            "direccion": "AV. JUAN B JUSTO Y PARAGUAY"
         }
     },
     {
@@ -2180,7 +2180,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y DE LOS CORRALES AV."
+            "direccion": "AV. GRAL. PAZ Y AV. DE LOS CORRALES"
         }
     },
     {
@@ -2194,7 +2194,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "SARMIENTO y LIBERTAD"
+            "direccion": "SARMIENTO Y LIBERTAD"
         }
     },
     {
@@ -2208,7 +2208,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "RIVADAVIA AV. 7121"
+            "direccion": "AV. RIVADAVIA 7121"
         }
     },
     {
@@ -2222,7 +2222,7 @@
         },
         "properties": {
             "participantes": "MOTO-SD",
-            "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. y RIVERA INDARTE AV."
+            "direccion": "AV. FERNANDEZ DE LA CRUZ Y RIVERA INDARTE"
         }
     },
     {
@@ -2236,7 +2236,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "MORENO, PERITO AV. y FOURNIER"
+            "direccion": "AV. PERITO MORENO Y FOURNIER"
         }
     },
     {
@@ -2250,7 +2250,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "CASEROS AV. 1429"
+            "direccion": "AV. CASEROS 1429"
         }
     },
     {
@@ -2264,7 +2264,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "GAONA AV. y FRAGATA PRES. SARMIENTO"
+            "direccion": "AV. GAONA Y FRAGATA SARMIENTO"
         }
     },
     {
@@ -2278,7 +2278,7 @@
         },
         "properties": {
             "participantes": "SD-AUTO",
-            "direccion": "MOZART y TANDIL"
+            "direccion": "MOZART Y TANDIL"
         }
     },
     {
@@ -2292,7 +2292,7 @@
         },
         "properties": {
             "participantes": "AUTO-PASAJEROS",
-            "direccion": "MOZART y AUTOPISTA DELLEPIANE LUIS TTE. GRAL."
+            "direccion": "MOZART Y COLECTORA AV. TTE. LUIS J DELLEPIANE"
         }
     },
     {
@@ -2306,7 +2306,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "24 DE NOVIEMBRE y PAVON"
+            "direccion": "24 DE NOVIEMBRE Y PAVON "
         }
     },
     {
@@ -2320,7 +2320,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y LOS CEDROS"
+            "direccion": "AV. GRAL. PAZ Y PEDRO DE MENDOZA"
         }
     },
     {
@@ -2334,7 +2334,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y GUTIERREZ, RICARDO"
+            "direccion": "AV. GRAL. PAZ KM. 10"
         }
     },
     {
@@ -2362,7 +2362,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "ACHAVAL RODRIGUEZ, T., DR. AV. y VILLAFLOR, AZUCENA"
+            "direccion": "AV. DR. TRISTAN ACHAVAL RODRIGUEZ Y BLVD. AZUCENA VILLAFLOR"
         }
     },
     {
@@ -2376,7 +2376,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "PAZ, GRAL. AV. y CAMPANA"
+            "direccion": "CURUPAYTI Y COLECTORA AV. GRAL. PAZ"
         }
     },
     {
@@ -2390,7 +2390,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "INDEPENDENCIA AV. y CEVALLOS, VIRREY"
+            "direccion": "AV. INDEPENDENCIA Y VIRREY CEVALLOS"
         }
     },
     {
@@ -2404,7 +2404,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "CASTA\u00c3\u2018ARES AV. y LAUTARO"
+            "direccion": "AV. CASTA\u00d1ARES Y LAUTARO"
         }
     },
     {
@@ -2418,7 +2418,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "GUIRALDES, INT. 2699"
+            "direccion": "CAMINO CIUDAD UNUVERSITARIA Y AV. TTE. GUIRALDES"
         }
     },
     {
@@ -2432,7 +2432,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "FERNANDEZ MORENO, BALDOMERO 2186"
+            "direccion": "BALDOMERO FERNANDEZ MORENO 2186"
         }
     },
     {
@@ -2446,7 +2446,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "LUGONES, LEOPOLDO AV."
+            "direccion": "AV. LEOPOLDO LUGONES PKM 6900"
         }
     },
     {
@@ -2474,7 +2474,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "ARGENTINA AV. y CORVALAN"
+            "direccion": "AV. ARGENTINA Y AV. CORVALAN"
         }
     },
     {
@@ -2488,7 +2488,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. y VARELA AV."
+            "direccion": "AV. FERNANDEZ DE LA CRUZ Y VARELA"
         }
     },
     {
@@ -2530,7 +2530,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "PAZ, GRAL. AV. y GOLETA SANTA CRUZ"
+            "direccion": "AV. GRAL. PAZ Y GOLETA JULIA"
         }
     },
     {
@@ -2544,7 +2544,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "VIEYTES y VILLARINO"
+            "direccion": "VIEYTES Y VILLARINO"
         }
     },
     {
@@ -2558,7 +2558,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "DE LOS CONSTITUYENTES AV. y MORAN, PEDRO"
+            "direccion": "AV. DE LOS CONSTITUYENTES Y PEDRO MORAN"
         }
     },
     {
@@ -2572,7 +2572,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "DE LOS CONSTITUYENTES AV. 4900"
+            "direccion": "AV. DE LOS CONSTITUYENTES 4900"
         }
     },
     {
@@ -2586,7 +2586,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "CORDOBA AV. y LIBERTAD"
+            "direccion": "AV. CORDOBA Y LIBERTAD"
         }
     },
     {
@@ -2600,7 +2600,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "BRASIL y LIMA"
+            "direccion": "BRASIL Y LIMA"
         }
     },
     {
@@ -2614,7 +2614,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "ESCALADA AV. y FERNANDEZ DE LA CRUZ, F., GRAL. AV."
+            "direccion": "AV. ESCALADA Y AV. FERNANDEZ DE LA CRUZ"
         }
     },
     {
@@ -2628,7 +2628,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "PARAGUAY y CALLAO AV."
+            "direccion": "PARAGUAY Y AV. CALLAO "
         }
     },
     {
@@ -2642,7 +2642,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "JUSTO, JUAN B. AV. y SAN BLAS"
+            "direccion": "AV. JUAN B JUSTO Y SAN BLAS"
         }
     },
     {
@@ -2656,7 +2656,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CHILE y 9 DE JULIO AV."
+            "direccion": "CHILE Y AV. 9 DE JULIO"
         }
     },
     {
@@ -2670,7 +2670,7 @@
         },
         "properties": {
             "participantes": "CARGAS-AUTO",
-            "direccion": "MAIPU y PERON, JUAN DOMINGO, TTE. GENERAL"
+            "direccion": "MAIPU Y PERON"
         }
     },
     {
@@ -2684,7 +2684,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-CARGAS",
-            "direccion": "SUAREZ AV. y HERRERA"
+            "direccion": "AV. SUAREZ Y HERRERA"
         }
     },
     {
@@ -2698,7 +2698,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "SAN MARTIN AV. y FRAGATA PRES. SARMIENTO"
+            "direccion": "AV. SAN MARTIN Y FRAGATA SARMIENTO"
         }
     },
     {
@@ -2712,7 +2712,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "DIRECTORIO AV. y MORENO, JOSE MARIA AV."
+            "direccion": "AV. DIRECTORIO Y AV. JOSE MARIA MORENO"
         }
     },
     {
@@ -2726,7 +2726,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "RABANAL, FRANCISCO, INTENDENTE AV. 2950"
+            "direccion": "AV. TTE. FRANCISCO RABANAL 2950"
         }
     },
     {
@@ -2740,7 +2740,7 @@
         },
         "properties": {
             "participantes": "MOTO-SD",
-            "direccion": "PAZ, GRAL. AV. y SCHMIDL, ULRICO"
+            "direccion": "AV. GRAL. PAZ Y ULRICO SCHMIDL"
         }
     },
     {
@@ -2754,7 +2754,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "NUEVA YORK 3696"
+            "direccion": "NUEVA YORK  3696"
         }
     },
     {
@@ -2768,7 +2768,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "DE LOS CONSTITUYENTES AV. y VALLEJOS"
+            "direccion": "AV. DE LOS CONSTITUYENTES Y VALLEJOS"
         }
     },
     {
@@ -2782,7 +2782,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "CORRIENTES AV. y ECUADOR"
+            "direccion": "AV. CORRIENTES Y ECUADOR"
         }
     },
     {
@@ -2810,7 +2810,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "DE MAYO AV. y 9 DE JULIO AV."
+            "direccion": "AV. DE MAYO Y AV. 9 DE JULIO"
         }
     },
     {
@@ -2824,7 +2824,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "CASTILLO, RAMON S., PRES. AV. y CALLE 12 (NO OFICIAL)"
+            "direccion": "AV. RAMON CASTILLO Y CALLE 12"
         }
     },
     {
@@ -2852,7 +2852,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "MEXICO y DEAN FUNES"
+            "direccion": "MEXICO Y DEAN FUNES"
         }
     },
     {
@@ -2866,7 +2866,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "ALBERDI, JUAN BAUTISTA AV. y ESCALADA AV."
+            "direccion": "AV. JUAN B ALBERDI Y AV. ESCALADA"
         }
     },
     {
@@ -2880,7 +2880,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "ENTRE RIOS AV. y BRASIL"
+            "direccion": "AV. ENTRE RIOS Y AV. BRASIL"
         }
     },
     {
@@ -2894,7 +2894,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "ALBERDI, JUAN BAUTISTA AV. y GUARDIA NACIONAL"
+            "direccion": "AV. JUAN B ALBERDI Y GUARDIA NACIONAL"
         }
     },
     {
@@ -2908,7 +2908,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "DEL LIBERTADOR AV. y RODRIGUEZ PE\u00c3\u2018A"
+            "direccion": "AV. DEL LIBERTADOR Y RODRIGUEZ PE\u00d1A"
         }
     },
     {
@@ -2922,7 +2922,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "TACUARI y GARCIA, MARTIN AV."
+            "direccion": "TACUARI Y AV. MARTIN GARCIA"
         }
     },
     {
@@ -2936,7 +2936,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "RIVADAVIA AV. y MURGUIONDO"
+            "direccion": "AV. RIVADAVIA Y MURGUIONDO"
         }
     },
     {
@@ -2964,7 +2964,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "PASEO COLON AV. y BRASIL AV."
+            "direccion": "AV. PASEO COLON Y BRASIL"
         }
     },
     {
@@ -2978,7 +2978,7 @@
         },
         "properties": {
             "participantes": "SD-AUTO",
-            "direccion": "LEGUIZAMON, MARTINIANO 901"
+            "direccion": "MARTINIANO LEGUIZAMON 901"
         }
     },
     {
@@ -2992,7 +2992,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "CHIVILCOY AV. y PAZ, GRAL. AV."
+            "direccion": "AV. CHIVILCOY Y COLECTORA AV. GRAL. PAZ "
         }
     },
     {
@@ -3006,7 +3006,7 @@
         },
         "properties": {
             "participantes": "MOTO-SD",
-            "direccion": "SUPERI y PAZ, GRAL. AV."
+            "direccion": "SUPERI Y AV. GRAL. PAZ"
         }
     },
     {
@@ -3020,7 +3020,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "AUTOPISTA 25 DE MAYO y AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI"
+            "direccion": "AU 25 DE MAYO Y AU FRONDIZI (9 DE JULIO SUR)"
         }
     },
     {
@@ -3034,7 +3034,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "LUGONES, LEOPOLDO AV. y PUENTE DISTRIBUIDOR SCALABRINI ORTIZ"
+            "direccion": "AV. LEOPOLDO LUGONES KM 7,5, ALTURA PUENTE SCALABRINI ORTIZ, SENTIDO A CENTRO PORTE\u00d1O"
         }
     },
     {
@@ -3048,7 +3048,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-CARGAS",
-            "direccion": "HUGO, VICTOR 2639"
+            "direccion": "VICTOR HUGO 2639"
         }
     },
     {
@@ -3062,7 +3062,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "CORDOBA AV. y SALGUERO, JERONIMO"
+            "direccion": "AV. CORDOBA Y JERONIMO SALGUERO"
         }
     },
     {
@@ -3076,7 +3076,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CABILDO AV. y NU\u00c3\u2018EZ"
+            "direccion": "AV. CABILDO Y NU\u00d1EZ"
         }
     },
     {
@@ -3090,7 +3090,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "BONIFACIO, JOSE 2114"
+            "direccion": "JOSE BONIFACIO 2114"
         }
     },
     {
@@ -3104,7 +3104,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-AUTO",
-            "direccion": "FIGUEROA ALCORTA, PRES. AV. 5400"
+            "direccion": "AV. PTE FIGUEROA ALCORTA 5400"
         }
     },
     {
@@ -3118,7 +3118,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 2135"
+            "direccion": "VENEZUELA 2135"
         }
     },
     {
@@ -3132,7 +3132,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "LACROZE, FEDERICO AV. y ZAPATA"
+            "direccion": "AV. FCO. LACROZE Y ZAPATA"
         }
     },
     {
@@ -3146,7 +3146,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "IRIARTE, GRAL. AV. y ZAVALETA"
+            "direccion": "IRIARTE Y ZAVALETA"
         }
     },
     {
@@ -3160,7 +3160,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "9 DE JULIO AV. y ESTADOS UNIDOS"
+            "direccion": "AV. 9 DE JULIO Y ESTADOS UNIDOS"
         }
     },
     {
@@ -3174,7 +3174,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "FRAY JUSTO SANTAMARIA DE ORO y GUEMES"
+            "direccion": "FRAY JUSTO SANTAMARIA DE ORO Y GUEMES"
         }
     },
     {
@@ -3188,7 +3188,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "DEL LIBERTADOR AV. y JARAMILLO"
+            "direccion": "AV. DEL LIBERTADOR Y JARAMILLO"
         }
     },
     {
@@ -3202,7 +3202,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "PAZ, GRAL. AV. y MACHAIN"
+            "direccion": "AV. GRAL. PAZ Y MACHAIN"
         }
     },
     {
@@ -3216,7 +3216,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "DIRECTORIO AV. y PORTELA"
+            "direccion": "AV. DIRECTORIO Y PORTELA"
         }
     },
     {
@@ -3230,7 +3230,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "LAVALLE y ALEM, LEANDRO N. AV."
+            "direccion": "LAVALLE Y AV. LEANDRO N ALEM"
         }
     },
     {
@@ -3244,7 +3244,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "USPALLATA y PIROVANO"
+            "direccion": "USPALLATA Y PIROVANO"
         }
     },
     {
@@ -3258,7 +3258,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "AUTOPISTA 25 DE MAYO y VARELA AV."
+            "direccion": "AU 25 DE MAYO Y AV. VARELA"
         }
     },
     {
@@ -3272,7 +3272,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "SANTA FE AV. y MAIPU"
+            "direccion": "AV. SANTA FE Y MAIPU"
         }
     },
     {
@@ -3286,7 +3286,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "ALVEAR AV. y DEL LIBERTADOR AV."
+            "direccion": "AV. ALVEAR Y AV. DEL LIBERTADOR"
         }
     },
     {
@@ -3300,7 +3300,7 @@
         },
         "properties": {
             "participantes": "MOTO-BICICLETA",
-            "direccion": "PAVON AV. y TREINTA Y TRES ORIENTALES"
+            "direccion": "AV. PAVON Y TREINTA Y TRES ORIENTALES"
         }
     },
     {
@@ -3314,7 +3314,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "PAZ, GRAL. AV. 5750"
+            "direccion": "COLECTORA AV. GRAL. PAZ 5750"
         }
     },
     {
@@ -3328,7 +3328,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "VIEYTES y CRUZ, OSVALDO AV."
+            "direccion": "VIEYTES Y CRUZ"
         }
     },
     {
@@ -3342,7 +3342,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "AUTOPISTA DELLEPIANE LUIS TTE. GRAL. y ESCALADA AV."
+            "direccion": "AU DELLEPIANE Y AV. ESCALADA"
         }
     },
     {
@@ -3356,7 +3356,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "ALBARI\u00c3\u2018O y ARGENTINA AV."
+            "direccion": "ALBARI\u00d1O Y AV. ARGENTINA"
         }
     },
     {
@@ -3370,7 +3370,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "RAMIREZ DE VELASCO, JUAN 1211"
+            "direccion": "JUAN RAMIREZ DE VELAZCO 1211"
         }
     },
     {
@@ -3384,7 +3384,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. y LARRAYA"
+            "direccion": "AV. FERNANDEZ DE LA CRUZ Y LARRAYA"
         }
     },
     {
@@ -3398,7 +3398,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "RIESTRA AV. y CA\u00c3\u2018ADA DE GOMEZ"
+            "direccion": "AV. RIESTRA Y CA\u00d1ADA DE GOMEZ"
         }
     },
     {
@@ -3412,7 +3412,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "GALLO y CORDOBA AV."
+            "direccion": "GALLO Y AV. CORDOBA"
         }
     },
     {
@@ -3426,7 +3426,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "ARANGUREN, JUAN F., DR. 611"
+            "direccion": "DR. JUAN F. ARANGUREN 611"
         }
     },
     {
@@ -3440,7 +3440,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "AUTOPISTA PERITO MORENO y AUTOPISTA 25 DE MAYO"
+            "direccion": "AU PERITO MORENO Y AU 25 DE MAYO"
         }
     },
     {
@@ -3454,7 +3454,7 @@
         },
         "properties": {
             "participantes": "AUTO-CARGAS",
-            "direccion": "CHORROARIN y SAN MARTIN AV."
+            "direccion": "CHORROARIN Y AV. SAN MARTIN"
         }
     },
     {
@@ -3468,7 +3468,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "COSQUIN y ROCA, CNEL. AV."
+            "direccion": "COSQUIN Y AV. CNEL. ROCA"
         }
     },
     {
@@ -3482,7 +3482,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "ROCA, CNEL. AV. 3555"
+            "direccion": "AV. CNEL. ROCA 3555"
         }
     },
     {
@@ -3496,7 +3496,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "WARNES AV. y PUNTA ARENAS"
+            "direccion": "AV. WARNES Y PUNTA ARENAS"
         }
     },
     {
@@ -3510,7 +3510,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "BARCO CENTENERA DEL y RABANAL, FRANCISCO, INTENDENTE AV."
+            "direccion": "DEL BARCO CENTENERA Y RABANAL"
         }
     },
     {
@@ -3524,7 +3524,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "MOSCONI GENERAL AV. y SAN NICOLAS"
+            "direccion": "AV. GRAL. ENRIQUE MOSCONI Y SAN NICOLAS"
         }
     },
     {
@@ -3538,7 +3538,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "LAFUENTE AV. y PERON, EVA AV."
+            "direccion": "AV. LAFUENTE Y AV. EVA PERON"
         }
     },
     {
@@ -3552,7 +3552,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "ROCA, CNEL. AV. y ESCALADA AV."
+            "direccion": "AV. CNEL. ROCA Y AV. ESCALADA"
         }
     },
     {
@@ -3566,7 +3566,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI"
+            "direccion": "AU ARTURO FRONDIZI PKM 3100"
         }
     },
     {
@@ -3580,7 +3580,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "LA PLATA AV. y GOYENA, PEDRO AV."
+            "direccion": "AV. LA PLATA Y AV. PEDRO GOYENA"
         }
     },
     {
@@ -3594,7 +3594,7 @@
         },
         "properties": {
             "participantes": "AUTO-PASAJEROS",
-            "direccion": "TRELLES, MANUEL R. y DIAZ, CESAR, GRAL."
+            "direccion": "TRELLES Y GRAL. CESAR DIAZ"
         }
     },
     {
@@ -3608,7 +3608,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "ROCA, CNEL. AV. y PAZ, GRAL. AV."
+            "direccion": "AV. CNEL. ROCA Y COLECTORA AV. GRAL. PAZ"
         }
     },
     {
@@ -3622,7 +3622,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "MAZA y DON BOSCO"
+            "direccion": "MAZA Y DON BOSCO"
         }
     },
     {
@@ -3636,7 +3636,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y PERON, EVA AV."
+            "direccion": "AV. GRAL. PAZ Y AV. EVA PERON"
         }
     },
     {
@@ -3650,7 +3650,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "SAN JUAN AV. y LA RIOJA"
+            "direccion": "AV. SAN JUAN Y LA RIOJA"
         }
     },
     {
@@ -3664,7 +3664,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "PASEO COLON AV. y MEXICO"
+            "direccion": "AV. PASEO COLON Y MEXICO"
         }
     },
     {
@@ -3678,7 +3678,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "RIVADAVIA AV. y MIRALLA"
+            "direccion": "AV. RIVADAVIA Y MIRALLA"
         }
     },
     {
@@ -3692,7 +3692,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "VIEYTES y LUJAN"
+            "direccion": "VIEYTES Y LUJAN"
         }
     },
     {
@@ -3706,7 +3706,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-PASAJEROS",
-            "direccion": "CACHI y TRAFUL"
+            "direccion": "CACHI Y TRAFUL"
         }
     },
     {
@@ -3720,7 +3720,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "ROSARIO y LA PLATA AV."
+            "direccion": "ROSARIO Y AV. LA PLATA"
         }
     },
     {
@@ -3734,7 +3734,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "ENTRE RIOS AV. y CASEROS AV."
+            "direccion": "AV. ENTRE RIOS Y AV. CASEROS "
         }
     },
     {
@@ -3748,7 +3748,7 @@
         },
         "properties": {
             "participantes": "SD-MOTO",
-            "direccion": "RIVADAVIA AV. 6350"
+            "direccion": "AV. RIVADAVIA 6350"
         }
     },
     {
@@ -3762,7 +3762,7 @@
         },
         "properties": {
             "participantes": "AUTO-PASAJEROS",
-            "direccion": "PAZ, GRAL. AV. y HUMAITA"
+            "direccion": "AV. GRAL. PAZ Y HUMAITA"
         }
     },
     {
@@ -3776,7 +3776,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "GUALEGUAYCHU y PAZ, GRAL. AV."
+            "direccion": "GUALEGUAYCHU Y COLECTORA AV. GRAL PAZ"
         }
     },
     {
@@ -3790,7 +3790,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "INDEPENDENCIA AV. y CEVALLOS, VIRREY"
+            "direccion": "AV. INDEPENDENCIA Y VIRREY CEVALLOS"
         }
     },
     {
@@ -3804,7 +3804,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "NAZCA AV. 365"
+            "direccion": "AV. NAZCA 365"
         }
     },
     {
@@ -3818,7 +3818,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "PERON, EVA AV. 5249"
+            "direccion": "AV. EVA PERON 5249"
         }
     },
     {
@@ -3832,7 +3832,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "SAN JUAN AV. y RINCON"
+            "direccion": "San Juan Av. Y Rinc\u00f3n"
         }
     },
     {
@@ -3846,7 +3846,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-PASAJEROS",
-            "direccion": "PERU 937"
+            "direccion": "Peru 937"
         }
     },
     {
@@ -3860,7 +3860,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "PUEYRREDON, HONORIO, DR. AV. y GALICIA"
+            "direccion": "Pueyrredon, Honorio, Dr. Av. y Galicia"
         }
     },
     {
@@ -3874,7 +3874,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "DEL LIBERTADOR AV. y MANZANARES"
+            "direccion": "Del Libertador Av. y Manzanares"
         }
     },
     {
@@ -3888,7 +3888,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "PASEO COLON AV. 1019"
+            "direccion": "Paseo Colon Av. 1019"
         }
     },
     {
@@ -3902,7 +3902,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-PASAJEROS",
-            "direccion": "VALLE y BARCO CENTENERA DEL"
+            "direccion": "Valle y Barco Centenera Del"
         }
     },
     {
@@ -3916,7 +3916,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "AUTOPISTA PERITO MORENO KM. 0.6"
+            "direccion": "AU Perito Moreno  KM 0.6"
         }
     },
     {
@@ -3930,7 +3930,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "HUERGO, ING. AV. e INDEPENDENCIA AV."
+            "direccion": "Huergo, Ing. Av. e Independencia Av."
         }
     },
     {
@@ -3944,7 +3944,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "PILCOMAYO y BROWN, ALTE. AV."
+            "direccion": "Pilcomayo y Brown, Alte. Av."
         }
     },
     {
@@ -3958,7 +3958,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "CERVANTES y BELAUSTEGUI, LUIS, DR."
+            "direccion": "Cervantes y Belaustegui, Luis, Dr."
         }
     },
     {
@@ -3972,7 +3972,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CALLAO AV. y LOPEZ, VICENTE"
+            "direccion": "Callao y Vte. Lopez"
         }
     },
     {
@@ -3986,7 +3986,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "OLIDEN y CHILAVERT, MARTINIANO, CORONEL"
+            "direccion": "Oliden y Chilavert, Martiniano, Coronel"
         }
     },
     {
@@ -4000,7 +4000,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "CONGRESO AV. y GALVAN"
+            "direccion": "Congreso Av. y Galvan"
         }
     },
     {
@@ -4014,7 +4014,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "MORENO, PERITO AV. y RIVERA INDARTE AV."
+            "direccion": "Moreno, Perito Av. y Rivera Indarte"
         }
     },
     {
@@ -4028,7 +4028,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "AUSTRALIA AV. 2800"
+            "direccion": "Australia Av. 2800"
         }
     },
     {
@@ -4042,7 +4042,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "DEL LIBERTADOR AV. y RAMOS MEJIA, JOSE MARIA, DR. AV."
+            "direccion": "Del Libertador Av. y Ramos Mejia, Jose Maria, Dr. Av."
         }
     },
     {
@@ -4056,7 +4056,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "SAN PEDRITO AV. y RIVADAVIA AV."
+            "direccion": "San Pedrito Av. y Rivadavia Av."
         }
     },
     {
@@ -4070,7 +4070,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "ISABEL LA CATOLICA y SALVADORES, CNEL."
+            "direccion": "Isabel La Catolica y Salvadores, Cnel."
         }
     },
     {
@@ -4084,7 +4084,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "LAS HERAS GENERAL AV. y CALLAO AV."
+            "direccion": "Las Heras General Av. y Callao Av."
         }
     },
     {
@@ -4098,7 +4098,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "FERNANDEZ DE LA CRUZ F., GRAL. AV. y AUTOPISTA PRESIDENTE HECTOR J. CAMPORA"
+            "direccion": "Fernandez de la Cruz Subida AU H\u00e9ctor J. C\u00e1mpora"
         }
     },
     {
@@ -4112,7 +4112,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "ALCORTA, AMANCIO AV. y ZAVALETA"
+            "direccion": "AMANCIO ALCORTA Y ZAVALETA"
         }
     },
     {
@@ -4126,7 +4126,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "MONTES DE OCA, MANUEL AV. y OLAVARRIA"
+            "direccion": "Montes De Oca, Manuel y Olavarria"
         }
     },
     {
@@ -4140,7 +4140,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "BARCO CENTENERA DEL y ROSARIO"
+            "direccion": "Barco Centenera Del y Rosario"
         }
     },
     {
@@ -4154,7 +4154,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "ALVAREZ THOMAS AV. y DONADO"
+            "direccion": "Alvarez Thomas Av. y Donado"
         }
     },
     {
@@ -4168,7 +4168,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "AVELLANEDA AV. y BOYACA AV."
+            "direccion": "Av. Avellaneda y Av. Boyac\u00e1"
         }
     },
     {
@@ -4182,7 +4182,7 @@
         },
         "properties": {
             "participantes": "MOVIL-CARGAS",
-            "direccion": "RABANAL, FRANCISCO, INTENDENTE AV. y SAENZ AV."
+            "direccion": "Rabanal, Francisco, Intendente Av. y Saenz Av."
         }
     },
     {
@@ -4196,7 +4196,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "CASTRO y RONDEAU"
+            "direccion": "Castro y Rondeau"
         }
     },
     {
@@ -4210,7 +4210,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "BILBAO, FRANCISCO AV. y AZUL"
+            "direccion": "Bilbao, Francisco Av. y Azul"
         }
     },
     {
@@ -4224,7 +4224,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "NAZCA AV. y GAONA AV."
+            "direccion": "Nazca Av. y Gaona Av."
         }
     },
     {
@@ -4238,7 +4238,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "PLAZA y ALVAREZ THOMAS AV."
+            "direccion": "Plaza y Alvarez Thomas Av."
         }
     },
     {
@@ -4252,7 +4252,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "GAONA AV. y ARTIGAS, JOSE GERVASIO, GRAL."
+            "direccion": "Gaona Av. y Artigas, Jose Gervasio, Gral."
         }
     },
     {
@@ -4266,7 +4266,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CABILDO AV. y AGUILAR"
+            "direccion": "Cabildo Av. y Aguilar"
         }
     },
     {
@@ -4280,7 +4280,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "CAMARONES y LOPE DE VEGA AV."
+            "direccion": "Camarones y Lope De Vega Av."
         }
     },
     {
@@ -4294,7 +4294,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "SANTA FE AV. 2320"
+            "direccion": "Santa Fe Av. 2320"
         }
     },
     {
@@ -4308,7 +4308,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "RIVADAVIA AV. 6950"
+            "direccion": "Av. Rivadavia 6950"
         }
     },
     {
@@ -4322,7 +4322,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "SAN MARTIN AV. y ARGERICH"
+            "direccion": "Av. San Mart\u00edn y Argerich"
         }
     },
     {
@@ -4336,7 +4336,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "CORDOBA AV. y URIBURU JOSE E., PRES."
+            "direccion": "Cordoba Av. y Uriburu Jose E., Pres."
         }
     },
     {
@@ -4350,7 +4350,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "RIVADAVIA AV. 1571"
+            "direccion": "AV. RIVADAVIA 1571"
         }
     },
     {
@@ -4378,7 +4378,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "FREIRE, RAMON, CAP. GRAL. y OLAGUER Y FELIU, VIRREY"
+            "direccion": "Ramon Freire y Virrey Olaguer y Feliu"
         }
     },
     {
@@ -4392,7 +4392,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "LA PLATA AV. y FERNANDEZ DE LA CRUZ, F., GRAL. AV."
+            "direccion": "La Plata Av. y Fernandez De La Cruz, F., Gral. Av."
         }
     },
     {
@@ -4420,7 +4420,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "VILARDEBO, TEODORO y ALVAREZ JONTE AV."
+            "direccion": "Vilardebo, Teodoro y Alvarez Jonte Av."
         }
     },
     {
@@ -4434,7 +4434,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "ALBERTI e INDEPENDENCIA AV."
+            "direccion": "Alberti e Independencia Av."
         }
     },
     {
@@ -4448,7 +4448,7 @@
         },
         "properties": {
             "participantes": "AUTO-CARGAS",
-            "direccion": "ALVAREZ THOMAS AV. 879"
+            "direccion": "Alvarez Thomas Av. 879"
         }
     },
     {
@@ -4462,7 +4462,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "PAZ, GRAL. AV. y RIVADAVIA AV."
+            "direccion": "Av. Gral. Paz y Av. Rivadavia"
         }
     },
     {
@@ -4476,7 +4476,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CORRIENTES AV. y DORREGO AV."
+            "direccion": "Av. Corrientes y Av. Dorrego"
         }
     },
     {
@@ -4490,7 +4490,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "RIVADAVIA AV. y PEDERNERA"
+            "direccion": "Rivadavia Av. y Pedernera"
         }
     },
     {
@@ -4504,7 +4504,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "QUESADA 2300"
+            "direccion": "Quesada 2300"
         }
     },
     {
@@ -4518,7 +4518,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CABILDO AV. y JURAMENTO AV."
+            "direccion": "Cabildo Av. y Juramento Av."
         }
     },
     {
@@ -4532,7 +4532,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "CALIFORNIA y CARBONARI, FRANCISCO, CMTE."
+            "direccion": "California y Carbonari, Francisco, Cmte."
         }
     },
     {
@@ -4546,7 +4546,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CARRIL, SALVADOR MARIA DEL AV. y NAZCA"
+            "direccion": "Carril, Salvador Maria Del Av. y Nazca"
         }
     },
     {
@@ -4560,7 +4560,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "SAN LUIS y AGUERO"
+            "direccion": "San Luis y Aguero"
         }
     },
     {
@@ -4574,7 +4574,7 @@
         },
         "properties": {
             "participantes": "PEATON-BICICLETA",
-            "direccion": "LUGONES 2430"
+            "direccion": "Lugones 2430"
         }
     },
     {
@@ -4588,7 +4588,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "INDEPENDENCIA AV. y JUJUY AV."
+            "direccion": "Independencia Av. y Jujuy Av."
         }
     },
     {
@@ -4602,7 +4602,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "RIVADAVIA AV. 11050"
+            "direccion": "Av. Rivadavia 11050"
         }
     },
     {
@@ -4616,7 +4616,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "COMBATE DE LOS POZOS y HUMBERTO 1\u00c2\u00b0"
+            "direccion": "Combate De Los Pozos y Humberto 1\u00b0"
         }
     },
     {
@@ -4630,7 +4630,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "CORDOBA AV. y THAMES"
+            "direccion": "Cordoba Av. y Thames"
         }
     },
     {
@@ -4644,7 +4644,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOVIL",
-            "direccion": "GARAY, JUAN DE AV. y SANCHEZ DE LORIA"
+            "direccion": "Garay, Juan De Av. y Sanchez De Loria"
         }
     },
     {
@@ -4658,7 +4658,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "LAVALLE y ALEM, LEANDRO N. AV."
+            "direccion": "Lavalle y Alem, Leandro N. Av."
         }
     },
     {
@@ -4672,7 +4672,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "ESTADOS UNIDOS y PICHINCHA"
+            "direccion": "Estados Unidos y Pichincha"
         }
     },
     {
@@ -4686,7 +4686,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "ROSARIO y BARCO CENTENERA DEL"
+            "direccion": "Rosario y Barco Centenera Del"
         }
     },
     {
@@ -4700,7 +4700,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "ALEM, LEANDRO N. AV. y VIAMONTE"
+            "direccion": "Av. Leandro N. Alem y Viamonte"
         }
     },
     {
@@ -4714,7 +4714,7 @@
         },
         "properties": {
             "participantes": "AUTO-CARGAS",
-            "direccion": "VARELA AV. y PRIMERA JUNTA"
+            "direccion": "Varela Av. y Primera Junta"
         }
     },
     {
@@ -4728,7 +4728,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "PELLEGRINI, CARLOS y JUNCAL"
+            "direccion": "Pellegrini, Carlos y Juncal"
         }
     },
     {
@@ -4742,7 +4742,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CORRIENTES AV. y LACROZE, FEDERICO AV."
+            "direccion": "Av. Corrientes y Av. Federico Lacroze"
         }
     },
     {
@@ -4756,7 +4756,7 @@
         },
         "properties": {
             "participantes": "PASAJEROS-AUTO",
-            "direccion": "MONTES DE OCA, MANUEL AV. y FINOCHIETTO ENRIQUE DR."
+            "direccion": "Montes De Oca, Manuel y Finochietto Enrique Dr."
         }
     },
     {
@@ -4770,7 +4770,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "CARABOBO AV. y ALBERDI, JUAN BAUTISTA AV."
+            "direccion": "Carabobo Av. y Alberdi, Juan Bautista Av."
         }
     },
     {
@@ -4784,7 +4784,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-PASAJEROS",
-            "direccion": "CORDOBA AV. 2215"
+            "direccion": "C\u00f3rdoba Av. 2215\n\n"
         }
     },
     {
@@ -4798,7 +4798,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "ESTADOS UNIDOS y URQUIZA, GRAL."
+            "direccion": "Estados Unidos y Urquiza, Gral."
         }
     },
     {
@@ -4812,7 +4812,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "MORENO y HUERGO, ING. AV."
+            "direccion": "Moreno y Av. Huergo"
         }
     },
     {
@@ -4826,7 +4826,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "AUTOPISTA DELLEPIANE LUIS TTE. GRAL. y MONTIEL"
+            "direccion": "AU Dellepiane kilometro 0.0, altura calle Montiel, sentido hacia el Centro Porte\u00f1o"
         }
     },
     {
@@ -4840,7 +4840,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "IRIARTE, GRAL. AV. 3400"
+            "direccion": "Iriarte, Gral. Av. 3400"
         }
     },
     {
@@ -4854,7 +4854,7 @@
         },
         "properties": {
             "participantes": "AUTO-CARGAS",
-            "direccion": "ALBERDI, JUAN BAUTISTA AV. 2968"
+            "direccion": "AV. JUAN B. ALBERDI 2968"
         }
     },
     {
@@ -4868,7 +4868,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "DEL LIBERTADOR AV. y ORTIZ DE OCAMPO"
+            "direccion": "Del Libertador Av. y Ortiz De Ocampo"
         }
     },
     {
@@ -4882,7 +4882,7 @@
         },
         "properties": {
             "participantes": "AUTO-CARGAS",
-            "direccion": "CHAVEZ, JORGE y PAZ, GRAL. AV."
+            "direccion": "Chavez, Jorge y Paz, Gral. Av."
         }
     },
     {
@@ -4896,7 +4896,7 @@
         },
         "properties": {
             "participantes": "AUTO-CARGAS",
-            "direccion": "URQUIZA, GRAL. y ESTADOS UNIDOS"
+            "direccion": "Urquiza, Gral. y Estados Unidos"
         }
     },
     {
@@ -4910,7 +4910,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "PARAGUAY y SANCHEZ DE BUSTAMANTE"
+            "direccion": "Paraguay y S\u00e1nchez De Bustamante"
         }
     },
     {
@@ -4924,7 +4924,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "DE LOS CORRALES AV. y PAZ, GRAL. AV."
+            "direccion": "De Los Corrales Av. y Paz, Gral. Av."
         }
     },
     {
@@ -4938,7 +4938,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "ALBERDI, JUAN BAUTISTA AV. y CARHUE"
+            "direccion": "Alberdi, Juan Bautista Av. y Carhue"
         }
     },
     {
@@ -4952,7 +4952,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "CASTA\u00c3\u2018ARES AV. y RIVERA INDARTE AV."
+            "direccion": "Casta\u00f1ares Av. y Rivera Indarte Av."
         }
     },
     {
@@ -4966,7 +4966,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "LARRAZABAL y GARZON, EUGENIO, GRAL. AV."
+            "direccion": "Larrazabal y Garzon, Eugenio, Gral. Av."
         }
     },
     {
@@ -4980,7 +4980,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "PAZ, GRAL. AV. y FERNANDEZ DE LA CRUZ, F., GRAL. AV."
+            "direccion": "Paz, Gral. Av. y Fernandez De La Cruz, F., Gral. Av."
         }
     },
     {
@@ -4994,7 +4994,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "MOREAU DE JUSTO, ALICIA AV. y COCHABAMBA"
+            "direccion": "Av. Alicia Moreau de Justo y Cochabamba"
         }
     },
     {
@@ -5008,7 +5008,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "ENTRE RIOS AV. y GARAY, JUAN DE AV."
+            "direccion": "Entre Rios Av. y Garay, Juan De Av."
         }
     },
     {
@@ -5022,7 +5022,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "DIRECTORIO AV. y GUARDIA NACIONAL"
+            "direccion": "Directorio Av. y Guardia Nacional"
         }
     },
     {
@@ -5036,7 +5036,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "PAVON AV. y COLOMBRES"
+            "direccion": "Pavon Av. Y Colombres"
         }
     },
     {
@@ -5050,7 +5050,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "PAZ, GRAL. AV. y BALBIN, RICARDO, DR. AV."
+            "direccion": "Av. Gral. Paz y Av. Dr. Ricardo Balb\u00edn"
         }
     },
     {
@@ -5064,7 +5064,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "PICHINCHA AV. y BRASIL"
+            "direccion": "Pichincha Av. y Brasil"
         }
     },
     {
@@ -5078,7 +5078,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "27 DE FEBRERO AV. y PERGAMINO"
+            "direccion": "27 De Febrero Av. y Pergamino"
         }
     },
     {
@@ -5092,7 +5092,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "AUTOPISTA PERITO MORENO y BARRAGAN"
+            "direccion": "AU Perito Moreno KM 1.8 ALTURA BARRAGAN SENTIDO PBA"
         }
     },
     {
@@ -5106,7 +5106,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "CORDOBA AV. y GASCON"
+            "direccion": "Cordoba Av. y Gascon"
         }
     },
     {
@@ -5120,7 +5120,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "15 DE NOVIEMBRE DE 1889 1513"
+            "direccion": "15 De Noviembre De 1889 1513"
         }
     },
     {
@@ -5134,7 +5134,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "SALGUERO, JERONIMO y BERUTI"
+            "direccion": "Salguero, Jeronimo y Beruti"
         }
     },
     {
@@ -5148,7 +5148,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "LACARRA AV. y DELLEPIANE, LUIS, TTE. GRAL."
+            "direccion": "Lacarra Av. y Dellepiane, Luis, Tte. Gral."
         }
     },
     {
@@ -5162,7 +5162,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "AUTOPISTA PRESIDENTE H\u00c3\u2030CTOR J. C\u00c3\u0081MPORA y ROCA, CNEL. AV."
+            "direccion": "AU H\u00e9ctor J. C\u00e1mpora y Roca, Cnel. Av."
         }
     },
     {
@@ -5176,7 +5176,7 @@
         },
         "properties": {
             "participantes": "AUTO-MOVIL",
-            "direccion": "VARELA AV. y RABANAL, FRANCISCO, INTENDENTE AV."
+            "direccion": "Av. Varela y Av. Int. Francisco Rabanal"
         }
     },
     {
@@ -5190,7 +5190,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y BERON DE ASTRADA"
+            "direccion": "Av. Gral. Paz e/ Ferre y Beron de Astrada"
         }
     },
     {
@@ -5204,7 +5204,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "RIVADAVIA AV. y PEDERNERA"
+            "direccion": "Rivadavia Av. y Pedernera"
         }
     },
     {
@@ -5218,7 +5218,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "RAWSON DE DELLEPIANE, ELVIRA AV. 150"
+            "direccion": "Elvira Rawson de Dellepiane 150"
         }
     },
     {
@@ -5232,7 +5232,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "PAZ, GRAL. AV. y ZAPIOLA"
+            "direccion": "Paz, Gral. Av. y Zapiola"
         }
     },
     {
@@ -5246,7 +5246,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "FAMATINA y TABORDA, DIOGENES"
+            "direccion": "FAMATINA Y DIOGENES TABORDA"
         }
     },
     {
@@ -5260,7 +5260,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "CASTA\u00c3\u2018ARES AV. y BONORINO, ESTEBAN, CNEL. AV."
+            "direccion": "Av. Casta\u00f1ares y Bonorino"
         }
     },
     {
@@ -5274,7 +5274,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI y SUAREZ AV."
+            "direccion": "AU Frondizi 9 de Julio Sur y Av. Suarez"
         }
     },
     {
@@ -5288,7 +5288,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "NAZCA AV. y RIVADAVIA AV."
+            "direccion": "Nazca Av. y Rivadavia Av."
         }
     },
     {
@@ -5302,7 +5302,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "FIGUEROA ALCORTA, PRES. AV. y ECHEVERRIA"
+            "direccion": "Figueroa Alcorta, Pres. Av. y Echeverria"
         }
     },
     {
@@ -5316,7 +5316,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "RIVADAVIA AV. y JUJUY AV."
+            "direccion": "Rivadavia Av. y Jujuy Av."
         }
     },
     {
@@ -5330,7 +5330,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "DE LOS ITALIANOS AV. y GUEMES, MACACHA"
+            "direccion": "De Los Italianos Av. y Guemes, Macacha"
         }
     },
     {
@@ -5344,7 +5344,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "TUCUMAN y ALEM, LEANDRO N. AV."
+            "direccion": "Tucuman y Alem, Leandro N. Av."
         }
     },
     {
@@ -5358,7 +5358,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "CORRIENTES AV. y GALLARDO, ANGEL AV."
+            "direccion": "Corrientes Av. y Gallardo, Angel Av."
         }
     },
     {
@@ -5372,7 +5372,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "AUTOPISTA PERITO MORENO & PERON, EVA  AV."
+            "direccion": "AU Perito Moreno y Av. Eva Per\u00f3n SENTIDO CENTRO"
         }
     },
     {
@@ -5386,7 +5386,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "MU\u00c3\u2018ECAS y SERRANO"
+            "direccion": "Mu\u00f1ecas y Serrano"
         }
     },
     {
@@ -5400,7 +5400,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "ARTIGAS, JOSE GERVASIO, GRAL. y TRES ARROYOS"
+            "direccion": "Artigas, Jose Gervasio, Gral. y Tres Arroyos"
         }
     },
     {
@@ -5414,7 +5414,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "SOLIS e INDEPENDENCIA AV."
+            "direccion": "Solis e Independencia Av."
         }
     },
     {
@@ -5428,7 +5428,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "BOSCH, VENTURA y PAZ, GRAL. AV."
+            "direccion": "Bosch, Ventura y Paz, Gral. Av."
         }
     },
     {
@@ -5442,7 +5442,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "PAZ, GRAL. AV. 14800"
+            "direccion": "Paz, Gral. Av. 14800"
         }
     },
     {
@@ -5456,7 +5456,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "PERON, EVA AV. 5321"
+            "direccion": "Av. Eva Per\u00f3n 5321"
         }
     },
     {
@@ -5470,7 +5470,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL y PUEYRREDON AV."
+            "direccion": "Peron, Juan Domingo, Tte. General y Pueyrredon Av."
         }
     },
     {
@@ -5484,7 +5484,7 @@
         },
         "properties": {
             "participantes": "PEATON-SD",
-            "direccion": "RABANAL, FRANCISCO, INTENDENTE AV. y SAN PEDRITO"
+            "direccion": "Rabanal y San Pedrito"
         }
     },
     {
@@ -5498,7 +5498,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "MONROE y ALVAREZ THOMAS AV."
+            "direccion": "Monroe y Alvarez Thomas Av."
         }
     },
     {
@@ -5512,7 +5512,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "RIVADAVIA AV. y MANZONI"
+            "direccion": "Rivadavia Av. y Manzoni"
         }
     },
     {
@@ -5526,7 +5526,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "AUTOPISTA DELLEPIANE LUIS TTE. GRAL. y LARRAZABAL"
+            "direccion": "AU Dellepiane Luis Tte. Gral. y Larrazabal"
         }
     },
     {
@@ -5540,7 +5540,7 @@
         },
         "properties": {
             "participantes": "AUTO-SD",
-            "direccion": "PAZ, GRAL. AV. y PERON, EVA AV."
+            "direccion": "Paz, Gral. Av. y Peron, Eva Av."
         }
     },
     {
@@ -5554,7 +5554,7 @@
         },
         "properties": {
             "participantes": "CARGAS-CARGAS",
-            "direccion": "AUTOPISTA PERITO MORENO y RESERVISTAS ARGENTINOS"
+            "direccion": "AU Perito Moreno y Reservistas Argentinos"
         }
     },
     {
@@ -5568,7 +5568,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "SAENZ AV. y VENTANA"
+            "direccion": "Saenz Av. y Ventana"
         }
     },
     {
@@ -5582,7 +5582,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y FALCON, RAMON L.,CNEL."
+            "direccion": "Avda. General Paz y Cnel. Ram\u00f3n Falc\u00f3n"
         }
     },
     {
@@ -5596,7 +5596,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "PAZ, GRAL. AV. y DE LOS CONSTITUYENTES AV."
+            "direccion": "Av. Gral. Paz y Av. de los Constituyentes"
         }
     },
     {
@@ -5610,7 +5610,7 @@
         },
         "properties": {
             "participantes": "AUTO-PASAJEROS",
-            "direccion": "PAZ, GRAL. AV. 11200"
+            "direccion": "Paz, Gral. Av. 11200"
         }
     },
     {
@@ -5624,7 +5624,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "NEWBERY, JORGE AV. y GUEVARA"
+            "direccion": "Newbery, Jorge Av. y Guevara"
         }
     },
     {
@@ -5638,7 +5638,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "GAONA AV. y SEGUROLA AV."
+            "direccion": "Gaona Av. y Segurola Av."
         }
     },
     {
@@ -5652,7 +5652,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "MADERO, EDUARDO AV. 550"
+            "direccion": "Madero, Eduardo Av. 550"
         }
     },
     {
@@ -5666,7 +5666,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "AUTOPISTA ARTURO ILLIA y CASTILLO, RAMON S., PRES. AV."
+            "direccion": "AU Arturo Illia y Castillo, Ramon S."
         }
     },
     {
@@ -5680,7 +5680,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "NAZCA AV. y RIVADAVIA AV."
+            "direccion": "Nazca Av. y Rivadavia Av."
         }
     },
     {
@@ -5694,7 +5694,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "LA PLATA AV. y CASEROS AV."
+            "direccion": "La Plata Av. y Caseros Av."
         }
     },
     {
@@ -5708,7 +5708,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "BELGRANO AV. y PERU"
+            "direccion": "Belgrano Av. y Peru"
         }
     },
     {
@@ -5722,7 +5722,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "RIVADAVIA AV. 7013"
+            "direccion": "Rivadavia Av. 7013"
         }
     },
     {
@@ -5736,7 +5736,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "ALSINA, ADOLFO y SANTIAGO DEL ESTERO"
+            "direccion": "Adolfo Alsina y Santiago del Estero"
         }
     },
     {
@@ -5750,7 +5750,7 @@
         },
         "properties": {
             "participantes": "PASAJEROS-PASAJEROS",
-            "direccion": "BERMUDEZ 1893"
+            "direccion": "Bermudez 1893"
         }
     },
     {
@@ -5764,7 +5764,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "SANTANDER 1974"
+            "direccion": "Santander 1974"
         }
     },
     {
@@ -5778,7 +5778,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "LANTERI JULIETA 1400"
+            "direccion": "Julieta Lanteri 1400"
         }
     },
     {
@@ -5792,7 +5792,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "MAZA e INDEPENDENCIA AV."
+            "direccion": "Maza y Av. Independencia"
         }
     },
     {
@@ -5820,7 +5820,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "OLIVERA AV. y ALBERDI, JUAN BAUTISTA AV."
+            "direccion": "Olivera Av. y Alberdi, Juan Bautista Av."
         }
     },
     {
@@ -5834,7 +5834,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "CASTILLO, RAMON S., PRES. AV. y CALLE 12 (NO OFICIAL)"
+            "direccion": "CASTILLO, RAMON S., PRES. AV. Y CALLE 12"
         }
     },
     {
@@ -5848,7 +5848,7 @@
         },
         "properties": {
             "participantes": "AUTO-CARGAS",
-            "direccion": "CASTA\u00c3\u2018ARES AV. y MORENO, PERITO AV."
+            "direccion": "CASTA\u00d1ARES AV. Y MORENO, PERITO AV."
         }
     },
     {
@@ -5862,7 +5862,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "SAN MARTIN AV. y TERRADA"
+            "direccion": "SAN MARTIN AV. Y TERRADA"
         }
     },
     {
@@ -5876,7 +5876,7 @@
         },
         "properties": {
             "participantes": "AUTO-PASAJEROS",
-            "direccion": "PERON, EVA AV. y MEDINA"
+            "direccion": "PERON, EVA AV. Y MEDINA"
         }
     },
     {
@@ -5890,7 +5890,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "JUSTO, JUAN B. AV. y ALVAREZ JONTE AV."
+            "direccion": "JUSTO, JUAN B. AV. Y ALVAREZ JONTE AV."
         }
     },
     {
@@ -5904,7 +5904,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "OBLIGADO RAFAEL, AV.COSTANERA 4650"
+            "direccion": "OBLIGADO RAFAEL, AV. COSTANERA 4650"
         }
     },
     {
@@ -5918,7 +5918,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "MITRE, BARTOLOME y YATAY"
+            "direccion": "MITRE, BARTOLOME Y YATAY"
         }
     },
     {
@@ -5946,7 +5946,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "CHACABUCO y SAN JUAN AV."
+            "direccion": "CHACABUCO Y SAN JUAN AV."
         }
     },
     {
@@ -5974,7 +5974,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "PAZ, GRAL. AV. y ALBERDI, JUAN BAUTISTA AV."
+            "direccion": "PAZ, GRAL. AV. Y ALBERDI, JUAN BAUTISTA AV."
         }
     },
     {
@@ -5988,7 +5988,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "CASTA\u00c3\u2018ARES AV. y GORDILLO, TIMOTEO"
+            "direccion": "CASTA\u00d1ARES AV. Y GORDILLO, TIMOTEO"
         }
     },
     {
@@ -6002,7 +6002,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "SALVIGNY y MOM"
+            "direccion": "SALVIGNY Y MOM"
         }
     },
     {
@@ -6044,7 +6044,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "CARRILLO, RAMON, DR. y FINOCHIETTO ENRIQUE DR."
+            "direccion": "CARRILLO, RAMON, DR. Y FINOCHIETTO ENRIQUE DR."
         }
     },
     {
@@ -6058,7 +6058,7 @@
         },
         "properties": {
             "participantes": "AUTO-PASAJEROS",
-            "direccion": "MEXICO y PICHINCHA"
+            "direccion": "MEXICO Y PICHINCHA"
         }
     },
     {
@@ -6072,7 +6072,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "CANTILO, INT. y UDAONDO, GUILLERMO AV."
+            "direccion": "CANTILO, INT. Y UDAONDO, GUILLERMO AV."
         }
     },
     {
@@ -6114,7 +6114,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "BOYACA AV. y YERBAL"
+            "direccion": "BOYACA AV. Y YERBAL"
         }
     },
     {
@@ -6128,7 +6128,7 @@
         },
         "properties": {
             "participantes": "AUTO-SD",
-            "direccion": "ENTRE RIOS AV. 1260"
+            "direccion": "ENTRE RIOS AV. BAJO PUENTE AUTOPISTA (1260 APROX)"
         }
     },
     {
@@ -6142,7 +6142,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "PAZ, GRAL. AV. y JACQUES, AMADEO"
+            "direccion": "PAZ, GRAL. AV. Y JACQUES, AMADEO"
         }
     },
     {
@@ -6170,7 +6170,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "MITRE, BARTOLOME y SANCHEZ DE BUSTAMANTE"
+            "direccion": "MITRE, BARTOLOME Y SANCHEZ DE BUSTAMANTE"
         }
     },
     {
@@ -6184,7 +6184,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. y PAZ, GRAL. AV."
+            "direccion": "FERNANDEZ DE LA CRUZ, F. , GRAL. AV. Y LARRAZABAL"
         }
     },
     {
@@ -6198,7 +6198,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "SANTA FE AV. y AZCUENAGA"
+            "direccion": "SANTA FE AV. Y AZCUENAGA"
         }
     },
     {
@@ -6212,7 +6212,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "JUSTO, JUAN B. AV. y ORO\u00c3\u2018O, NICASIO"
+            "direccion": "JUSTO, JUAN B. AV. y ORO\u00d1O, NICASIO"
         }
     },
     {
@@ -6226,7 +6226,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. y PAZ, GRAL. AV."
+            "direccion": "FERNANDEZ DE LA CRUZ, F. , GRAL. AV. Y LACARRA AV."
         }
     },
     {
@@ -6240,7 +6240,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "ALVAREZ, DONATO, TTE. GRAL. y YERBAL"
+            "direccion": "ALVAREZ, DONATO, TTE. GRAL. Y YERBAL"
         }
     },
     {
@@ -6254,7 +6254,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-CARGAS",
-            "direccion": "CORDOBA AV. y MADERO, EDUARDO AV."
+            "direccion": "CORDOBA AV. Y MADERO, EDUARDO AV."
         }
     },
     {
@@ -6268,7 +6268,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "CAMARONES y ALVAREZ, DONATO, TTE. GRAL. AV."
+            "direccion": "CAMARONES Y ALVAREZ, DONATO, TTE. GRAL. AV."
         }
     },
     {
@@ -6282,7 +6282,7 @@
         },
         "properties": {
             "participantes": "MOTO-SD",
-            "direccion": "AUTOPISTA 25 DE MAYO y HUERGO, ING. AV."
+            "direccion": "AUTOPISTA 25 DE MAYO Y HUERGO, ING. AV."
         }
     },
     {
@@ -6324,7 +6324,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "RIGLOS y FORMOSA"
+            "direccion": "RIGLOS Y FORMOSA"
         }
     },
     {
@@ -6338,7 +6338,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "LA RIOJA e INDEPENDENCIA AV."
+            "direccion": "LA RIOJA E INDEPENDENCIA AV."
         }
     },
     {
@@ -6352,7 +6352,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "UDAONDO, GUILLERMO AV. y FIGUEROA ALCORTA, PRES. AV."
+            "direccion": "UDAONDO, GUILLERMO AV. Y FIGUEROA ALCORTA, PRES. AV."
         }
     },
     {
@@ -6366,7 +6366,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "SAN PEDRITO AV. y DIRECTORIO AV."
+            "direccion": "SAN PEDRITO AV. Y DIRECTORIO AV."
         }
     },
     {
@@ -6380,7 +6380,7 @@
         },
         "properties": {
             "participantes": "MOTO-SD",
-            "direccion": "PUAN y SANTANDER"
+            "direccion": "PUAN Y SANTANDER"
         }
     },
     {
@@ -6394,7 +6394,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "ALBERDI, JUAN BAUTISTA AV. y ANDALGALA"
+            "direccion": "ALBERDI, JUAN BAUTISTA AV. Y ANDALGALA"
         }
     },
     {
@@ -6408,7 +6408,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "LIMA y CONSTITUCION"
+            "direccion": "LIMA Y CONSTITUCION"
         }
     },
     {
@@ -6422,7 +6422,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-CARGAS",
-            "direccion": "CORDOBA AV. y MADERO, EDUARDO AV."
+            "direccion": "CORDOBA AV. Y MADERO, EDUARDO AV."
         }
     },
     {
@@ -6450,7 +6450,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "DEL LIBERTADOR AV. y REPUBLICA DE LA INDIA"
+            "direccion": "DEL LIBERTADOR AV. Y REPUBLICA DE LA INDIA"
         }
     },
     {
@@ -6464,7 +6464,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y CABILDO AV."
+            "direccion": "GRAL PAZ Y CABILDO"
         }
     },
     {
@@ -6506,7 +6506,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "CIUDAD DE LA PAZ y MENDOZA"
+            "direccion": "CIUDAD DE LA PAZ Y MENDOZA"
         }
     },
     {
@@ -6520,7 +6520,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "SALGUERO, JERONIMO y HONDURAS AV."
+            "direccion": "SALGUERO, JERONIMO Y HONDURAS AV."
         }
     },
     {
@@ -6534,7 +6534,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "FILIBERTO, JUAN DE DIOS y OLAVARRIA"
+            "direccion": "FILIBERTO, JUAN DE DIOS Y OLAVARRIA"
         }
     },
     {
@@ -6548,7 +6548,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "ASTURIAS AV. y CASTA\u00c3\u2018ARES AV."
+            "direccion": "ASTURIAS AV. Y CASTA\u00d1ARES AV."
         }
     },
     {
@@ -6576,7 +6576,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "GUEVARA, TRINIDAD y MADERO, EDUARDO AV."
+            "direccion": "GUEVARA, TRINIDAD Y MADERO, EDUARDO AV."
         }
     },
     {
@@ -6604,7 +6604,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "ARTILLEROS y LA PAMPA"
+            "direccion": "ARTILLEROS Y LA PAMPA"
         }
     },
     {
@@ -6618,7 +6618,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "AUTOPISTA PERITO MORENO e IRIGOYEN"
+            "direccion": "AUTOPISTA PERITO MORENO ALTURA PASO A NIVEL DE IRIGOYEN"
         }
     },
     {
@@ -6632,7 +6632,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "15 DE NOVIEMBRE DE 1889 y SANTIAGO DEL ESTERO"
+            "direccion": "15 DE NOVIEMBRE DE 1889 Y SANTIAGO DEL ESTERO"
         }
     },
     {
@@ -6646,7 +6646,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "ACOSTA, MARIANO AV. y FALCON, RAMON L.,CNEL."
+            "direccion": "ACOSTA, MARIANO AV. Y FALCON, RAMON L., CNEL."
         }
     },
     {
@@ -6660,7 +6660,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "11 DE SEPTIEMBRE DE 1888 y MENDOZA"
+            "direccion": "11 DE SEPTIEMBRE DE 1888 Y MENDOZA"
         }
     },
     {
@@ -6674,7 +6674,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "PINO, VIRREY DEL y CAMPOS, LUIS M. AV."
+            "direccion": "PINO, VIRREY DEL Y CAMPOS, LUIS M. AV."
         }
     },
     {
@@ -6688,7 +6688,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "FOREST AV. y MAURE"
+            "direccion": "FOREST AV. Y MAURE"
         }
     },
     {
@@ -6702,7 +6702,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "BOYACA AV. y AVELLANEDA AV."
+            "direccion": "BOYACA AV. Y AVELLANEDA AV,"
         }
     },
     {
@@ -6716,7 +6716,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "BARCO CENTENERA DEL y TILCARA"
+            "direccion": "BARCO CENTENERA DEL Y TILCARA"
         }
     },
     {
@@ -6730,7 +6730,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "RIESTRA AV. y BOLIVAR (NO OFICIAL)"
+            "direccion": "RIESTRA AV. Y BOLIVAR"
         }
     },
     {
@@ -6800,7 +6800,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "PRIMERA JUNTA y OLIVERA AV."
+            "direccion": "PRIMERA JUNTA Y OLIVERA AV."
         }
     },
     {
@@ -6814,7 +6814,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "ALBERDI, JUAN BAUTISTA AV. y AZUL"
+            "direccion": "ALBERDI, JUAN BAUTISTA AV. Y AZUL"
         }
     },
     {
@@ -6842,7 +6842,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "LUGONES, LEOPOLDO AV. y PAZ, GRAL. AV."
+            "direccion": "LUGONES, LEOPOLDO AV. Y PAZ, GRAL. AV."
         }
     },
     {
@@ -6856,7 +6856,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "SAN ANTONIO y LUJAN"
+            "direccion": "SAN ANTONIO Y LUJAN"
         }
     },
     {
@@ -6870,7 +6870,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI y DON PEDRO DE MENDOZA AV."
+            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI ALTURA DON PEDRO DE MENDOZA AV."
         }
     },
     {
@@ -6884,7 +6884,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "FIGUEROA ALCORTA, PRES. AV. y TAGLE"
+            "direccion": "FIGUEROA ALCORTA, PRES. AV. Y TAGLE"
         }
     },
     {
@@ -6898,7 +6898,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "EINSTEIN, ALBERTO y ALCORTA, AMANCIO AV."
+            "direccion": "EINSTEIN, ALBERTO Y ALCORTA, AMANCIO AV."
         }
     },
     {
@@ -6912,7 +6912,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "AGRELO y COLOMBRES"
+            "direccion": "AGRELO Y COLOMBRES"
         }
     },
     {
@@ -6968,7 +6968,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "MONTE y CORVALAN"
+            "direccion": "MONTE Y CORVALAN"
         }
     },
     {
@@ -6982,7 +6982,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-CARGAS",
-            "direccion": "TANDIL y LAFUENTE"
+            "direccion": "TANDIL Y LA FUENTE"
         }
     },
     {
@@ -6996,7 +6996,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-TREN",
-            "direccion": "CARDOSO y BACACAY"
+            "direccion": "CARDOSO Y BACACAY"
         }
     },
     {
@@ -7024,7 +7024,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "ALVAREZ THOMAS AV. y MENDOZA"
+            "direccion": "ALVAREZ THOMAS AV. Y MENDOZA"
         }
     },
     {
@@ -7038,7 +7038,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "ALCORTA, AMANCIO AV. y BONAVENA, OSCAR NATALIO"
+            "direccion": "ALCORTA, AMANCIO AV. Y BONAVENA, OSCAR NATALIO"
         }
     },
     {
@@ -7052,7 +7052,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "BROWN, ALTE. AV. y BLANES, JUAN MANUEL"
+            "direccion": "BROWN, ALTE. AV. Y BLANES, JUAN MANUEL"
         }
     },
     {
@@ -7080,7 +7080,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "JUSTO, JUAN B. AV. y CAMARGO"
+            "direccion": "JUSTO, JUAN B. AV. Y CAMARGO"
         }
     },
     {
@@ -7094,7 +7094,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "BRIN, MINISTRO y SUAREZ"
+            "direccion": "BRIN, MINISTRO Y SUAREZ"
         }
     },
     {
@@ -7108,7 +7108,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-OTRO",
-            "direccion": "NIZA y JUSTO, JUAN B. AV."
+            "direccion": "NIZA Y JUSTO, JUAN B. AV."
         }
     },
     {
@@ -7122,7 +7122,7 @@
         },
         "properties": {
             "participantes": "MOTO-OTRO",
-            "direccion": "CAMARGO y SERRANO"
+            "direccion": "CAMARGO Y SERRANO"
         }
     },
     {
@@ -7136,7 +7136,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI y CASEROS AV."
+            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI ALTURA CASEROS AV."
         }
     },
     {
@@ -7150,7 +7150,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CASEROS AV. y PIEDRAS"
+            "direccion": "CASEROS AV. Y PIEDRAS"
         }
     },
     {
@@ -7164,7 +7164,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "AUTOPISTA PERITO MORENO KM. 5.6"
+            "direccion": "AUTOPISTA PERITO MORENO KM 5,6"
         }
     },
     {
@@ -7192,7 +7192,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "DE LOS CONSTITUYENTES AV. 4300"
+            "direccion": "de los constituyentes av. 4300"
         }
     },
     {
@@ -7206,7 +7206,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "MORENO, PERITO AV. y TILCARA AV."
+            "direccion": "MORENO, PERITO AV. Y TILCARA AV."
         }
     },
     {
@@ -7220,7 +7220,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "IBARROLA y GORDILLO, TIMOTEO"
+            "direccion": "IBARROLA Y GORDILLO, TIMOTEO"
         }
     },
     {
@@ -7234,7 +7234,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "PAZ, GRAL. AV. y GRIVEO"
+            "direccion": "PAZ, GRAL. AV. Y GRIVEO"
         }
     },
     {
@@ -7248,7 +7248,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "RIVADAVIA AV. y PERGAMINO"
+            "direccion": "RIVADAVIA AV. Y PERGAMINO"
         }
     },
     {
@@ -7262,7 +7262,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "SANTO TOME y SEGUROLA AV."
+            "direccion": "SANTO TOME Y SEGUROLA AV."
         }
     },
     {
@@ -7276,7 +7276,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "URIARTE y LOYOLA"
+            "direccion": "URIARTE Y LOYOLA"
         }
     },
     {
@@ -7290,7 +7290,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "SARAZA y VARELA AV."
+            "direccion": "SARAZA Y VARELA AV."
         }
     },
     {
@@ -7304,7 +7304,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "RIVADAVIA AV. y COMBATE DE LOS POZOS"
+            "direccion": "RIVADAVIA AV. Y COMBATE DE LOS POZOS"
         }
     },
     {
@@ -7318,7 +7318,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "RODRIGUEZ PE\u00c3\u2018A y RIVADAVIA AV."
+            "direccion": "RODRIGUEZ PE\u00d1A Y RIVADAVIA AV."
         }
     },
     {
@@ -7332,7 +7332,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "24 DE NOVIEMBRE y SAN JUAN AV."
+            "direccion": "24 DE NOVIEMBRE Y SAN JUAN AV."
         }
     },
     {
@@ -7360,7 +7360,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "CHILE y LIMA"
+            "direccion": "CHILE Y LIMA "
         }
     },
     {
@@ -7374,7 +7374,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "CORDOBA AV. y JAURES, JEAN"
+            "direccion": "CORDOBA AV. Y JEAN JAURES"
         }
     },
     {
@@ -7388,7 +7388,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL y SALGUERO, JERONIMO"
+            "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL Y SALGUERO, JERONIMO"
         }
     },
     {
@@ -7402,7 +7402,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "9 DE JULIO AV. y SAN JUAN AV."
+            "direccion": "9 DE JULIO AV. Y SAN JUAN AV."
         }
     },
     {
@@ -7444,7 +7444,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "COMBATIENTES DE MALVINAS AV. y TRIUNVIRATO AV."
+            "direccion": "COMBATIENTES DE MALVINAS AV. Y TRIUNVITARO AV."
         }
     },
     {
@@ -7458,7 +7458,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "BERMUDEZ y NOGOYA"
+            "direccion": "BERMUDEZ Y NOGOYA"
         }
     },
     {
@@ -7472,7 +7472,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "BRASIL AV. y PASEO COLON AV."
+            "direccion": "BRASIL AV. Y PASEO COLON AV."
         }
     },
     {
@@ -7486,7 +7486,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "ALEM, LEANDRO N. AV. 770"
+            "direccion": "ALEM,LEANDRO N. AV. 770"
         }
     },
     {
@@ -7500,7 +7500,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "BELGRANO AV. y RINCON"
+            "direccion": "BELGRANO AV. Y RINCON"
         }
     },
     {
@@ -7528,7 +7528,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "CONSTITUCION y CASTRO"
+            "direccion": "CONSTITUCION Y CASTRO"
         }
     },
     {
@@ -7542,7 +7542,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "PUEYRREDON AV. y GOMEZ, VALENTIN"
+            "direccion": "PUEYRREDON AV. Y GOMEZ, VALENTIN"
         }
     },
     {
@@ -7570,7 +7570,7 @@
         },
         "properties": {
             "participantes": "AUTO-CARGAS",
-            "direccion": "AUTOPISTA DELLEPIANE LUIS TTE. GRAL. y ESCALADA AV."
+            "direccion": "DELLEPIANE, LUIS, TTE. GRAL. Y ESCALADA AV."
         }
     },
     {
@@ -7584,7 +7584,7 @@
         },
         "properties": {
             "participantes": "AUTO-CARGAS",
-            "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. y BROWN, ALTE. AV."
+            "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. Y BROWN, ALTE. AV."
         }
     },
     {
@@ -7640,7 +7640,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "DELLEPIANE, LUIS, TTE. GRAL. y MONTIEL"
+            "direccion": "DELLEPIANE, LUIS, TTE. GRAL. Y MONTIEL"
         }
     },
     {
@@ -7654,7 +7654,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "SCALABRINI ORTIZ, RAUL AV. y WARNES AV."
+            "direccion": "SCALABRINI ORTIZ, RAUL AV. Y WARNES AV."
         }
     },
     {
@@ -7710,7 +7710,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "CORRIENTES AV. y SERRANO"
+            "direccion": "CORRIENTES AV. Y SERRANO"
         }
     },
     {
@@ -7724,7 +7724,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "PAZ, GRAL. AV. y DEL LIBERTADOR AV."
+            "direccion": "PAZ, GRAL. AV. Y DEL LIBERTADOR AV."
         }
     },
     {
@@ -7738,7 +7738,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "MITRE, BARTOLOME y ANCHORENA, TOMAS MANUEL DE, DR."
+            "direccion": "MITRE, BARTOLOME Y ANCHORENA, TOMAS MANUEL DE, DR."
         }
     },
     {
@@ -7752,7 +7752,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "AUTOPISTA 25 DE MAYO y PUMACAHUA"
+            "direccion": "AU 25 DE MAYO ALTURA PUMACAHUA Y RECUERO, CASIMIRO, TTE. CNEL."
         }
     },
     {
@@ -7766,7 +7766,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "SCALABRINI ORTIZ, RAUL AV. y PARAGUAY"
+            "direccion": "SCALABRINI ORTIZ, RAUL AV. Y PARAGUAY"
         }
     },
     {
@@ -7780,7 +7780,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. y VARELA AV."
+            "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. Y VARELA AV."
         }
     },
     {
@@ -7794,7 +7794,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "LAS HERAS GENERAL AV. y DIAZ, CNEL. AV."
+            "direccion": "LAS HERAS GENERAL AV. Y DIAZ, CNEL. AV."
         }
     },
     {
@@ -7808,7 +7808,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "MURGUIONDO"
+            "direccion": "MURGUIONDO 2700"
         }
     },
     {
@@ -7822,7 +7822,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "CASTILLO, RAMON S., PRES. AV. y CALLE 12 (NO OFICIAL)"
+            "direccion": "CASTILLO, RAMON S., PRES. AV. Y CALLE 12"
         }
     },
     {
@@ -7836,7 +7836,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "CURAPALIGUE y PERON, EVA AV."
+            "direccion": "CURAPALIGUE Y PERON, EVA AV."
         }
     },
     {
@@ -7850,7 +7850,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "DIAZ, ANA y SOLDADO DE LA FRONTERA AV."
+            "direccion": "DIAZ, ANA Y SOLDADO DE LA FRONTERA AV."
         }
     },
     {
@@ -7864,7 +7864,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "ALEM, LEANDRO N. AV. y PARAGUAY"
+            "direccion": "ALEM, LEANDRO N. AV. Y PARAGUAY"
         }
     },
     {
@@ -7878,7 +7878,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "LA PLATA AV. e INDEPENDENCIA AV."
+            "direccion": "LA PLATA AV. E INDEPENDENCIA"
         }
     },
     {
@@ -7892,7 +7892,7 @@
         },
         "properties": {
             "participantes": "AUTO-CARGAS",
-            "direccion": "PAZ, GRAL. AV. y 27 DE FEBRERO AV."
+            "direccion": "PAZ, GRAL. AV. Y 27 DE FEBRERO AV."
         }
     },
     {
@@ -7906,7 +7906,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "NAZCA AV. y CARRANZA, ADOLFO P."
+            "direccion": "NAZCA AV. Y CARRANZA, ADOLFO P."
         }
     },
     {
@@ -7920,7 +7920,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "AUTOPISTA PRESIDENTE H\u00c3\u2030CTOR J. C\u00c3\u0081MPORA y LACARRA AV."
+            "direccion": "AUTOPISTA CAMPORA ALTURA LACARRA AV."
         }
     },
     {
@@ -7948,7 +7948,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "DEL LIBERTADOR AV. y RAMOS MEJIA, JOSE MARIA, DR. AV."
+            "direccion": "DEL LIBERTADOR AV. Y RAMOS MEJIA, JOSE MARIA, DR. AV."
         }
     },
     {
@@ -7962,7 +7962,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "SANTA FE AV. y GODOY CRUZ"
+            "direccion": "SANTA FE AV. Y GODOY CRUZ"
         }
     },
     {
@@ -7976,7 +7976,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "AVELLANEDA AV. y MERCEDES"
+            "direccion": "AVELLANEDA AV. Y MERCEDES"
         }
     },
     {
@@ -7990,7 +7990,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-CARGAS",
-            "direccion": "TUCUMAN y PUEYRREDON AV."
+            "direccion": "TUCUMAN Y PUEYRREDON AV."
         }
     },
     {
@@ -8004,7 +8004,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "ALCORTA, AMANCIO AV. y EINSTEIN, ALBERTO"
+            "direccion": "ALCORTA, AMANCIO AV. Y EINSTEIN, ALBERTO"
         }
     },
     {
@@ -8018,7 +8018,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-AUTO",
-            "direccion": "INCLAN y ALBERTI"
+            "direccion": "INCLAN Y ALBERTI"
         }
     },
     {
@@ -8046,7 +8046,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "PAZ, GRAL. AV. y ROCA, CNEL. AV."
+            "direccion": "PAZ, GRAL. AV. Y DOCTOR RAMON CARRILLO"
         }
     },
     {
@@ -8060,7 +8060,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "NAZCA AV. y VIALE, LUIS"
+            "direccion": "NAZCA AV. Y VIALE, LUIS"
         }
     },
     {
@@ -8074,7 +8074,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "OLIVERA AV. y FALCON, RAMON L.,CNEL."
+            "direccion": "OLIVERA AV. Y FALCON, RAMON L., CNEL."
         }
     },
     {
@@ -8102,7 +8102,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "HOMERO y PERON, EVA AV."
+            "direccion": "HOMERO Y PERON, EVA AV."
         }
     },
     {
@@ -8116,7 +8116,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "CANTILO, INT. y UDAONDO, GUILLERMO AV."
+            "direccion": "CANTILO, INT. Y UDAONDO, GUILLERMO AV."
         }
     },
     {
@@ -8144,7 +8144,7 @@
         },
         "properties": {
             "participantes": "PEATON_MOTO-MOTO",
-            "direccion": "NUEVA YORK y ALTA GRACIA"
+            "direccion": "NUEVA YORK Y ALTA GRACIA"
         }
     },
     {
@@ -8158,7 +8158,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y GOYENECHE, ROBERTO PARQUE AV."
+            "direccion": "PAZ, GRAL. AV. Y GOYENECHE, ROBERTO PARQUE AV."
         }
     },
     {
@@ -8172,7 +8172,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "AUTOPISTA PERITO MORENO (ALTURA ESTACION DE TREN VILLA LURO)"
+            "direccion": "AUTOPISTA PERITO MORENO ALTURA ESTACION DE TREN VILLA LURO"
         }
     },
     {
@@ -8186,7 +8186,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "SAENZ AV. y BEAZLEY"
+            "direccion": "SAENZ AV. Y BEAZLEY"
         }
     },
     {
@@ -8200,7 +8200,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "DEL LIBERTADOR AV. y AUSTRIA"
+            "direccion": "DEL LIBERTADOR AV. Y AUSTRIA"
         }
     },
     {
@@ -8214,7 +8214,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "INDEPENDENCIA AV. y SAENZ PE\u00c3\u2018A, LUIS, PRES."
+            "direccion": "INDEPENDENCIA AV. Y SAENZ PE\u00d1A, LUIS, PRES."
         }
     },
     {
@@ -8228,7 +8228,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CALLAO AV. y LAS HERAS, GENERAL"
+            "direccion": "CALLAO AV. Y LAS HERAS, GENERAL"
         }
     },
     {
@@ -8242,7 +8242,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "SAN PEDRITO AV. y DIRECTORIO AV."
+            "direccion": "SAN PEDRITO AV. Y DIRECTORIO AV."
         }
     },
     {
@@ -8256,7 +8256,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-AUTO",
-            "direccion": "JUJUY AV. y CALVO, CARLOS"
+            "direccion": "JUJUY AV. Y CARLOS, CALVO"
         }
     },
     {
@@ -8270,7 +8270,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "27 DE FEBRERO AV. y ESCALADA AV."
+            "direccion": "27 DE FEBRERO AV. Y ESCALADA AV."
         }
     },
     {
@@ -8284,7 +8284,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "BOGOTA y NAZCA AV."
+            "direccion": "BOGOTA Y NAZCA AV."
         }
     },
     {
@@ -8298,7 +8298,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "CORRIENTES AV. y 9 DE JULIO AV."
+            "direccion": "CORRIENTES AV. Y 9 DE JULIO AV."
         }
     },
     {
@@ -8312,7 +8312,7 @@
         },
         "properties": {
             "participantes": "AUTO-PASAJEROS",
-            "direccion": "ALVAREZ JONTE AV. y CHIVILCOY"
+            "direccion": "ALVAREZ JONTE AV. Y CHIVILCOY"
         }
     },
     {
@@ -8326,7 +8326,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "SAN MARTIN AV. y PUNTA ARENAS"
+            "direccion": "SAN MARTIN AV. Y PUNTA ARENAS"
         }
     },
     {
@@ -8354,7 +8354,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "PAZ, GRAL. AV. y GOYENECHE, ROBERTO PARQUE AV."
+            "direccion": "PAZ, GRAL. AV. Y ACCESO NORTE - PANAMERICANA"
         }
     },
     {
@@ -8382,7 +8382,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "CASTRO, EMILIO AV. y MURGUIONDO"
+            "direccion": "CASTRO, EMILIO AV. Y MURGUIONDO"
         }
     },
     {
@@ -8396,7 +8396,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "AUTOPISTA 25 DE MAYO KM. 3.7"
+            "direccion": "AU 25 DE MAYO KM. 3,7"
         }
     },
     {
@@ -8410,7 +8410,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "CASEROS AV. y GUARANI"
+            "direccion": "CASEROS AV. Y GUARANI"
         }
     },
     {
@@ -8438,7 +8438,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "AUTOPISTA ARTURO ILLIA y SARMIENTO AV."
+            "direccion": "AU ILLIA y SARMIENTO AV."
         }
     },
     {
@@ -8452,7 +8452,7 @@
         },
         "properties": {
             "participantes": "MOTO-MOTO",
-            "direccion": "DE LOS CONSTITUYENTES AV. y GIRIBONE"
+            "direccion": "DE LOS CONSTITUYENTES AV. Y GIRIBONE"
         }
     },
     {
@@ -8466,7 +8466,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "SAENZ AV. y RABANAL, FRANCISCO, INTENDENTE AV."
+            "direccion": "SAENZ AV. Y RABANAL, FRANCISCO, INTENDENTE AV."
         }
     },
     {
@@ -8480,7 +8480,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "PAYSANDU y GAONA AV."
+            "direccion": "PAYSANDU Y GAONA"
         }
     },
     {
@@ -8494,7 +8494,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y BALBIN, RICARDO, DR. AV."
+            "direccion": "PAZ, GRAL. AV. Y BALBIN, RICARDO, DR. AV. "
         }
     },
     {
@@ -8522,7 +8522,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "DELLEPIANE, LUIS, TTE. GRAL. y GUAMINI"
+            "direccion": "AU DELLEPIANE Y GUAMINI"
         }
     },
     {
@@ -8536,7 +8536,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "FALCON, RAMON L.,CNEL. y OLIVERA AV."
+            "direccion": "FALCON, RAMON L., CNEL. Y OLIVERA AV."
         }
     },
     {
@@ -8550,7 +8550,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "SAN MARTIN AV. y NOGOYA"
+            "direccion": "SAN MARTIN AV. Y NOGOYA"
         }
     },
     {
@@ -8564,7 +8564,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "SAN MARTIN AV. y TINOGASTA"
+            "direccion": "SAN MARTIN AV. Y TINOGASTA"
         }
     },
     {
@@ -8578,7 +8578,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. y DE LA TORRE, LISANDRO"
+            "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. Y DE LA TORRE, LISANDRO"
         }
     },
     {
@@ -8592,7 +8592,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "SALTA y CASEROS AV."
+            "direccion": "SALTA Y CASEROS AV."
         }
     },
     {
@@ -8606,7 +8606,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "JAURES, JEAN y PERON, JUAN DOMINGO, TTE. GENERAL"
+            "direccion": "JAURES, JEAN Y PERON, JUAN DOMINGO, TTE. GENERAL"
         }
     },
     {
@@ -8620,7 +8620,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "TRIUNVIRATO AV. y LARRALDE, CRISOLOGO AV."
+            "direccion": "TRIUNVIRATO AV. Y LARRALDE, CRISOLOGO AV."
         }
     },
     {
@@ -8634,7 +8634,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "POTOSI y GASCON"
+            "direccion": "POTOSI Y GASCON"
         }
     },
     {
@@ -8648,7 +8648,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "YRIGOYEN, HIPOLITO y 24 DE NOVIEMBRE"
+            "direccion": "YRIGOYEN, HIPOLITO Y  24 DE NOVIEMBRE"
         }
     },
     {
@@ -8662,7 +8662,7 @@
         },
         "properties": {
             "participantes": "PASAJEROS-SD",
-            "direccion": "DEL LIBERTADOR AV. y ROOSEVELT FRANKLIN D."
+            "direccion": "DEL LIBERTADOR AV. Y ROOSEVELT FRANKLIN D."
         }
     },
     {
@@ -8690,7 +8690,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-CARGAS",
-            "direccion": "PERON, EVA AV. y PIEDRA BUENA AV."
+            "direccion": "PERON, EVA AV. y PIEDRA BUENA AV"
         }
     },
     {
@@ -8704,7 +8704,7 @@
         },
         "properties": {
             "participantes": "MOTO-OTRO",
-            "direccion": "PAZ, GRAL. AV. y AUTOPISTA DELLEPIANE LUIS TTE. GRAL."
+            "direccion": "PAZ, GRAL. AV. y DELLEPIANE, LUIS, TTE. GRAL"
         }
     },
     {
@@ -8718,7 +8718,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI y QUINQUELA MARTIN, BENITO"
+            "direccion": "AU FRONDIZI ALTURA QUINQUELA MARTIN, BENITO"
         }
     },
     {
@@ -8746,7 +8746,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "COREA AV. y TORRES Y TENORIO, PRES."
+            "direccion": "COREA AV. y TORRES Y TENORIO, PRES"
         }
     },
     {
@@ -8760,7 +8760,7 @@
         },
         "properties": {
             "participantes": "AUTO-AUTO",
-            "direccion": "FALCON, RAMON L.,CNEL. y SAN PEDRITO AV."
+            "direccion": "FALCON, RAMON L., CNEL. Y SAN PEDRITO AV."
         }
     },
     {
@@ -8788,7 +8788,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "9 DE JULIO AV. e INDEPENDENCIA AV."
+            "direccion": "9 DE JULIO AV. E INDEPENDENCIA AV."
         }
     },
     {
@@ -8802,7 +8802,7 @@
         },
         "properties": {
             "participantes": "PEATON-MOTO",
-            "direccion": "CANTILO, INT. y GUIRALDES, INT."
+            "direccion": "AU CANTILO Y GUIRALDES, INT."
         }
     },
     {
@@ -8816,7 +8816,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "AUTOPISTA 25 DE MAYO y BOEDO AV."
+            "direccion": "AU 25 DE MAYO ALTURA BAJADA BOEDO AV."
         }
     },
     {
@@ -8844,7 +8844,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "JANER, ANA MARIA y LAFUENTE AV."
+            "direccion": "JANER, ANA MARIA Y LAFUENTE AV."
         }
     },
     {
@@ -8858,7 +8858,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "PAZ, GRAL. AV. y MOSCONI GENERAL AV."
+            "direccion": "PAZ, GRAL. AV. Y MOSCONI GENERAL AV."
         }
     },
     {
@@ -8872,7 +8872,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "MONROE y BALBIN, RICARDO, DR. AV."
+            "direccion": "MONROE Y BALBIN, RICARDO, DR. AV."
         }
     },
     {
@@ -8886,7 +8886,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "JUSTO, JUAN B. AV. y SANTA FE AV."
+            "direccion": "JUSTO, JUAN B. AV. Y SANTA FE AV."
         }
     },
     {
@@ -8900,7 +8900,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-AUTO",
-            "direccion": "OLIDEN y ALBERDI, JUAN BAUTISTA AV."
+            "direccion": "OLIDEN Y ALBERDI, JUAN BAUTISTA AV."
         }
     },
     {
@@ -8914,7 +8914,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "PAZ, GRAL. AV. y DEL LIBERTADOR AV."
+            "direccion": "PAZ, GRAL. AV. Y DEL LIBERTADOR AV."
         }
     },
     {
@@ -8928,7 +8928,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "DEL LIBERTADOR AV. y CASARES AV."
+            "direccion": "DEL LIBERTADOR AV. Y CASARES AV."
         }
     },
     {
@@ -8956,7 +8956,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "ALBERDI, JUAN BAUTISTA AV. y PILAR"
+            "direccion": "ALBERDI, JUAN BAUTISTA AV. Y PILAR"
         }
     },
     {
@@ -8970,7 +8970,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "PERON, EVA AV. y ACOSTA, MARIANO"
+            "direccion": "PERON, EVA AV. Y ACOSTA, MARIANO"
         }
     },
     {
@@ -8984,7 +8984,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI y SUAREZ AV."
+            "direccion": "AU FRONDIZI Y SUAREZ AV."
         }
     },
     {
@@ -8998,7 +8998,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "ELCANO AV. y GUZMAN AV."
+            "direccion": "EL CANO AV. Y GUZMAN AV."
         }
     },
     {
@@ -9012,7 +9012,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "VEDIA, AGUSTIN DE y RABANAL, FRANCISCO, INTENDENTE AV."
+            "direccion": "VEDIA, AGUSTIN DE Y RABANAL, FRANCISCO, INTENDENTE AV."
         }
     },
     {
@@ -9026,7 +9026,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-AUTO",
-            "direccion": "CAPDEVILA y CONGRESO AV."
+            "direccion": "CAPDEVILLA Y CONGRESO AV."
         }
     },
     {
@@ -9068,7 +9068,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "27 DE FEBRERO AV. y EREZCANO AV."
+            "direccion": "27 DE FEBRERO AV. Y EREZCANO AV."
         }
     },
     {
@@ -9110,7 +9110,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "TABARE y EREZCANO"
+            "direccion": "TABARE Y EREZCANO"
         }
     },
     {
@@ -9124,7 +9124,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "CORRIENTES AV. y PUEYRREDON AV."
+            "direccion": "CORRIENTES AV. Y PUEYRREDOR AV."
         }
     },
     {
@@ -9138,7 +9138,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-AUTO",
-            "direccion": "CORRALES y MORENO, PERITO AV."
+            "direccion": "CORRALES Y MORENO, PERITO AV."
         }
     },
     {
@@ -9152,7 +9152,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "AUTOPISTA  ARTURO ILLIA (CABINA DE PEAJE)"
+            "direccion": "AU ILLIA KM 3.2, ALTURA CABINAS DE PEAJE"
         }
     },
     {
@@ -9166,7 +9166,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "PAZ, GRAL. AV. y VEDIA"
+            "direccion": "AV. GRAL. PAZ Y VEDIA"
         }
     },
     {
@@ -9194,7 +9194,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "SALGUERO, JERONIMO y RIVADAVIA AV."
+            "direccion": "SALGUERO, JERONIMO Y RIVADAVIA AV."
         }
     },
     {
@@ -9208,7 +9208,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "MORENO, PERITO AV. y ALCORTA, AMANCIO AV."
+            "direccion": "MORENO, PERITO AV. Y ALCORTA, AMANCIO AV."
         }
     },
     {
@@ -9250,7 +9250,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "PAZ, GRAL. AV. y TONELERO"
+            "direccion": "PAZ, GRAL. AV. Y TONELERO"
         }
     },
     {
@@ -9264,7 +9264,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "SAN JUAN AV. y LA PLATA AV."
+            "direccion": "Av. SAN JUAN Y AV. LA PLATA"
         }
     },
     {
@@ -9278,7 +9278,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "LOPE DE VEGA AV. y PAZ, GRAL. AV."
+            "direccion": "Av. LOPE DE VEGA Y AV. GRAL. PAZ"
         }
     },
     {
@@ -9292,7 +9292,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI y BRASIL"
+            "direccion": "AU FRONDIZI KM 2,9 (ALTURA BRASIL)"
         }
     },
     {
@@ -9320,7 +9320,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "SANTA FE AV. 3428"
+            "direccion": "AV. SANTA FE 3428"
         }
     },
     {
@@ -9334,7 +9334,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "CHILAVERT, MARTINIANO, CORONEL y VARELA AV."
+            "direccion": "CHILAVERT, MARTINIANO, CORONEL Y VARELA AV."
         }
     },
     {
@@ -9362,7 +9362,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "CALLAO AV. y PARAGUAY"
+            "direccion": "CALLAO AV. Y PARAGUAY"
         }
     },
     {
@@ -9376,7 +9376,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-AUTO",
-            "direccion": "DEL LIBERTADOR AV. y AGOTE, LUIS DR."
+            "direccion": "DEL LIBERTADOR AV. Y AGOTE, LUIS DR."
         }
     },
     {
@@ -9390,7 +9390,7 @@
         },
         "properties": {
             "participantes": "MULTIPLE",
-            "direccion": "PAZ, GRAL. AV. y BALBIN, RICARDO, DR. AV."
+            "direccion": "PAZ, GRAL. AV. Y BALBIN, RICARDO, DR. AV."
         }
     },
     {
@@ -9404,7 +9404,7 @@
         },
         "properties": {
             "participantes": "PEATON-CARGAS",
-            "direccion": "SALTA y BRASIL"
+            "direccion": "SALTA Y BRASIL"
         }
     },
     {
@@ -9446,7 +9446,7 @@
         },
         "properties": {
             "participantes": "MOTO-PASAJEROS",
-            "direccion": "INDEPENDENCIA AV. y LA PLATA AV."
+            "direccion": "INDEPENDENCIA AV. Y LA PLATA AV."
         }
     },
     {
@@ -9474,7 +9474,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "ARENALES y 9 DE JULIO AV."
+            "direccion": "ARENALES Y 9 DE JULIO AV."
         }
     },
     {
@@ -9488,7 +9488,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI y BRANDSEN"
+            "direccion": "AU FRONDIZI SUBIDA BRANDSEN"
         }
     },
     {
@@ -9502,7 +9502,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "AUTOPISTA 25 DE MAYO y PASCO"
+            "direccion": "AU 25 DE MAYO KM7 (ALTURA PASCO)"
         }
     },
     {
@@ -9516,7 +9516,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "CABILDO AV. y OLAZABAL"
+            "direccion": "CABILDO AV. Y OLAZABAL"
         }
     },
     {
@@ -9530,7 +9530,7 @@
         },
         "properties": {
             "participantes": "AUTO-OBJETO FIJO",
-            "direccion": "TAPALQUE y BRUIX AV."
+            "direccion": "TAPALQUE Y BRUIX AV."
         }
     },
     {
@@ -9544,7 +9544,7 @@
         },
         "properties": {
             "participantes": "MOTO-OBJETO FIJO",
-            "direccion": "PAZ, GRAL. AV. y EZEIZA"
+            "direccion": "PAZ, GRAL. AV. Y EZEIZA"
         }
     },
     {
@@ -9558,7 +9558,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "RIVADAVIA AV. y PUAN"
+            "direccion": "RIVADAVIA AV. Y PUAN"
         }
     },
     {
@@ -9586,7 +9586,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "MONROE y 3 DE FEBRERO"
+            "direccion": "AV. MOROE Y 3 DE FEBRERO"
         }
     },
     {
@@ -9600,7 +9600,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "GAONA AV. 3655"
+            "direccion": "AV. GAONA 3655"
         }
     },
     {
@@ -9614,7 +9614,7 @@
         },
         "properties": {
             "participantes": "PEATON-PASAJEROS",
-            "direccion": "9 DE JULIO AV. y LAVALLE"
+            "direccion": "AV. 9 DE JULIO Y LAVALLE"
         }
     },
     {
@@ -9628,7 +9628,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "BAIGORRIA y HUGO, VICTOR"
+            "direccion": "BAIGORRIA Y VICTOR HUGO"
         }
     },
     {
@@ -9642,7 +9642,7 @@
         },
         "properties": {
             "participantes": "PEATON-AUTO",
-            "direccion": "RIVADAVIA AV. y PUEYRREDON AV."
+            "direccion": "AV. RIVADAVIA Y AV. PUEYRREDON"
         }
     },
     {
@@ -9656,7 +9656,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "RIESTRA AV. y MOM"
+            "direccion": "AV. RIESTRA Y MOM"
         }
     },
     {
@@ -9670,7 +9670,7 @@
         },
         "properties": {
             "participantes": "MOTO-AUTO",
-            "direccion": "DELLEPIANE, LUIS, TTE. GRAL. y LACARRA AV."
+            "direccion": "AU DELLEPIANE Y LACARRA"
         }
     },
     {
@@ -9684,7 +9684,7 @@
         },
         "properties": {
             "participantes": "MOTO-CARGAS",
-            "direccion": "GAONA AV. y TERRADA"
+            "direccion": "AV. GAONA Y TERRADA"
         }
     },
     {
@@ -9698,7 +9698,7 @@
         },
         "properties": {
             "participantes": "AUTO-CARGAS",
-            "direccion": "PERON, EVA AV. 4071"
+            "direccion": "AV. EVA PERON 4071"
         }
     },
     {
@@ -9712,7 +9712,7 @@
         },
         "properties": {
             "participantes": "BICICLETA-AUTO",
-            "direccion": "PADRE CARLOS MUGICA 709"
+            "direccion": "PADRE CARLOS MUJICA 709"
         }
     }
 ]

@@ -5,3 +5,4 @@ plotly
 openpyxl
 folium
 streamlit_folium
+ipywidgets
