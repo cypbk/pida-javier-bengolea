@@ -1670,6 +1670,20 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
+                0.0,
+                0.0
+            ]
+        },
+        "properties": {
+            "participantes": "PEATON-SD",
+            "direccion": "SD"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
                 -58.46451841,
                 -34.64991946
             ]
@@ -1929,6 +1943,20 @@
         "properties": {
             "participantes": "MOTO-CARGAS",
             "direccion": "AV DIRECTORIO Y AV SAN PEDRITO"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        },
+        "properties": {
+            "participantes": "SD-SD",
+            "direccion": "AUTOPISTA 25 DE MAYO"
         }
     },
     {
