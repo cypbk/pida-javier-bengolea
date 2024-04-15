@@ -89,29 +89,52 @@ class App:
         self.show_title()
         self.load_data()
         st.header("Análisis de datos")  
+
+        data = self.set_accidentes.query("data_geo").copy()
+        data['cruce_st'] = data['es_cruce'].map({False:'Calle', True:'Esquina'})
+        
+
+        col1, col2, col3, col4 = st.columns([.2,.2,.2,.4])
         
         tab1, tab2 = st.tabs(["🔍 Filtros", "🗃 Datos"])
         
-        tab2.dataframe(self.set_accidentes)    
-        
-        data = self.set_accidentes.query("data_geo").copy()
-
-        
-        comunas_numeric = data['comuna'].apply(pd.to_numeric, errors='coerce').dropna()
-        comunas = pd.Series(comunas_numeric.unique()).sort_values().astype(int).astype(str)
+        with tab1:
+          with col1:
+            # st.write("Filtro 1")
+            comunas_numeric = data['comuna'].apply(pd.to_numeric, errors='coerce').dropna()
+            comunas = pd.Series(comunas_numeric.unique()).sort_values().astype(int).astype(str)
                 
-        tab1.comuna = st.selectbox("Comuna", comunas)
-
-        tab1.fatalidad = st.selectbox('Fatalidad', ['FATAL', 'NO FATAL'])
-        tab1.intervalo_select = st.selectbox('Intervalo', ['Anual', 'Semestral', 'Mensual'])
-        
-        min_year, max_year = tab1.slider('Select Year Range',
+            comuna = st.selectbox("Comuna", comunas)
+          with col2:
+            fatalidad = st.selectbox('Fatalidad', ['FATAL', 'NO FATAL'])
+          with col3:
+            intervalo_select = st.selectbox('Intervalo', ['Anual', 'Semestral', 'Mensual'])
+          with col4:
+            min_year, max_year = st.slider('Select Year Range',
                                min_value=data['fecha_hora'].dt.to_period('Y').min().year, 
                                max_value=data['fecha_hora'].dt.to_period('Y').max().year, 
                                value=(data['fecha_hora'].dt.to_period('Y').min().year, data['fecha_hora'].dt.to_period('Y').max().year))
+
         
-        fatalidad = tab1.fatalidad
-        comuna = tab1.comuna
+
+        tab2.dataframe(self.set_accidentes)    
+        
+        
+
+        
+        # comunas_numeric = data['comuna'].apply(pd.to_numeric, errors='coerce').dropna()
+        # comunas = pd.Series(comunas_numeric.unique()).sort_values().astype(int).astype(str)
+                
+        # tab1.comuna = st.selectbox("Comuna", comunas)
+
+        
+        
+        
+        
+        # fatalidad = tab1.col2.fatalidad
+        # comuna = tab1.comuna
+
+        st.write((fatalidad, comuna))
         #min_year, max_year = tab1.slider
 
         if fatalidad == 'FATAL':
@@ -124,14 +147,14 @@ class App:
         else:
             data = data.query(f"gravedad in ['GRAVE','FATAL'] and comuna.notna()]")
                     
-        data['cruce_st'] = data['es_cruce'].map({False:'Calle', True:'Esquina'})
+        st.dataframe(data)
                 
 
         
         CENTER = (data['latitud'].mean(skipna=True),data['longitud'].mean(skipna=True))
+        st.write(CENTER)
 
-
-        mapa = folium.Map(location=CENTER, zoom_start = 12)
+        mapa = folium.Map(CENTER, zoom_start = 12)
         
         dic_color = {'GRAVE': 'orange', 'FATAL':'red'}
         # data['cruce_st'] = data['es_cruce'].map({False:'Calle', True:'Esquina'})
@@ -198,7 +221,7 @@ class App:
         grouped_data['text'] = grouped_data['diff'].apply(
             lambda x: f"{'{:.2f}'.format(x)}" if x > 0 else f"{round(x,2)}")
 
-        grouped_data['text'] = grouped_data['text'].apply(lambda st: (str(st) + '% ↓') if float(st) < 0.0 else (str(st) + '% ↑'))
+        grouped_data['text'] = grouped_data['text'].apply(lambda st: (str(st) + '% ↓') if float(st) < 0.0 else ' = 'if float(st) == 0.0 else(str(st) + '% ↑'))
 
 
         fig = px.bar(grouped_data, x=intervalo, y='n_accidentes', 
@@ -221,7 +244,7 @@ class App:
         #st.write([trace.text.tolist() for trace in fig.data])
 
         def inv(n):
-            if n == '0':
+            if n == ' = ':
                 return 0
             if n[-3:] in ['% ↑', '% ↓']:
                 return n[0:-3]
