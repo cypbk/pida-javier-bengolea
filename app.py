@@ -11,6 +11,8 @@ import seaborn as sns
 import locale
 from shapely.geometry import shape
 import json
+import plotly.graph_objs as go
+import numpy as np
 
 # Set locale to Spanish
 locale.setlocale(locale.LC_TIME, 'es_ES.UTF-8')
@@ -69,6 +71,7 @@ def showPiePx(columna, max=15, pref="", title="", excluir=["SD"]):
      
   # Plot pie chart using Plotly Express
   fig = px.pie(datos, values='ocurrencia', names='valor', title=title)
+  
   fig.update_traces(textposition='outside', textinfo='percent+label')
   return fig
 
@@ -78,7 +81,8 @@ class App:
         self.app_title = 'Análisis de Accidentes Viales'
         st.set_page_config(
         page_title='PI Data Analytics 📊',
-        page_icon=':chart_with_downwards_trend:', # This is an emoji shortcode. Could be a URL too.
+        page_icon=':chart_with_downwards_trend:', 
+        layout="wide"
     )
         
     def load_data(self):
@@ -88,13 +92,79 @@ class App:
         
         
     def run(self):
-        self.show_title()
+        # self.show_title()
         self.load_data()
-        st.header("Análisis de datos")  
+        st.markdown('''<style>div.block-container{padding-top: 1rem}        </style>''', unsafe_allow_html=True)
+        st.header(" :bar_chart: Análisis de Accidentes Viales")  
 
         data = self.set_accidentes.query("data_geo").copy()
         data['cruce_st'] = data['es_cruce'].map({False:'Calle', True:'Esquina'})
+
+        with st.sidebar:
+          st.title("Consultora SigVa")
+          
+          comunas_numeric = self.set_accidentes.query('data_geo')['comuna'].apply(pd.to_numeric, errors='coerce').dropna()
+          comunas = pd.Series(comunas_numeric.unique()).sort_values().astype(int).astype(str)
+          comuna = st.selectbox("Comuna", comunas)
+
+          fatalidad = st.selectbox('Fatalidad', ['FATAL', 'NO FATAL'])
+
+          intervalo_select = st.selectbox('Intervalo', ['Anual', 'Semestral', 'Mensual'], index=1)
+
+          min_year, max_year = st.slider('Elegir años entre',
+                              min_value=data['fecha_hora'].dt.to_period('Y').min().year,
+                              max_value=data['fecha_hora'].dt.to_period('Y').max().year,
+                              value=(data['fecha_hora'].dt.to_period('Y').min().year, data['fecha_hora'].dt.to_period('Y').max().year))
+
+
         
+        container_KPI = st.container()
+
+        with container_KPI:
+          current_value = 1025.0
+          reference_value = 2048.0
+          
+          KPI_1_fig = go.Figure()
+          delta_percentage = ((current_value - reference_value) / reference_value) * 100
+
+          increasing = np.sign(delta_percentage)
+          color = 'red' if increasing == 1 else 'green'
+
+          KPI_1 = go.Indicator(
+              mode="number+delta",
+              value=current_value,
+              title={"text": "Horas Extras", 'font':{'color':'black', 'size':22}},  # Description at the bottom of the KPI
+              number={'prefix': "$ ", 'font': {'color': color},'valueformat': '.2f'},  # Darker green text color
+              delta={'position': "bottom", 'reference': reference_value, 'relative': True, 
+              'font': {'color': color}, 'increasing': {'color': "red"},'decreasing': {'color': "green"},
+              'valueformat': '.2%'
+              },  # Darker green delta color
+              domain={'x': [0.0, 1], 'y': [0, 1]},
+              # domain = {'row': 0, 'column': 0}
+          )
+
+  
+          KPI_1_fig.add_shape(type="rect",
+              x0=0, y0=-0.02, x1=1, y1=0.05,  # Adjust y0 and y1 to position the line
+              line=dict(color=color, width=1.5),
+              fillcolor=color,  # Change to "darkgreen" for a darker shade
+              opacity=1,
+              xref="paper", yref="paper"
+              )
+
+          KPI_1_fig.add_trace(KPI_1)
+
+          # Update layout
+          KPI_1_fig.update_layout(margin=dict(t=10, b=0,l=0,r=0), paper_bgcolor="white", plot_bgcolor="white", showlegend=False, height=150)          
+
+          kpi_cl1, kpi_cl2, kpi_cl3 = st.columns([.33,.33,.33])
+
+          with kpi_cl1:
+            st.plotly_chart(KPI_1_fig, use_container_width=True, height=150)
+          with kpi_cl2:
+            st.plotly_chart(KPI_1_fig, use_container_width=True)
+          with kpi_cl3:
+            st.plotly_chart(KPI_1_fig, use_container_width=True)
 
         col1, col2, col3, col4 = st.columns([.2,.2,.2,.4])
         
@@ -102,19 +172,22 @@ class App:
 
         # with tab1:
         with col1:
-          comunas_numeric = data['comuna'].apply(pd.to_numeric, errors='coerce').dropna()
-          comunas = pd.Series(comunas_numeric.unique()).sort_values().astype(int).astype(str)
+          # comunas_numeric = data['comuna'].apply(pd.to_numeric, errors='coerce').dropna()
+          # comunas = pd.Series(comunas_numeric.unique()).sort_values().astype(int).astype(str)
 
-          comuna = st.selectbox("Comuna", comunas)
+          # comuna = st.selectbox("Comuna", comunas)
+          pass
         with col2:
-          fatalidad = st.selectbox('Fatalidad', ['FATAL', 'NO FATAL'])
+          pass
         with col3:
-          intervalo_select = st.selectbox('Intervalo', ['Anual', 'Semestral', 'Mensual'])
+          pass
+          # intervalo_select = st.selectbox('Intervalo', ['Anual', 'Semestral', 'Mensual'])
         with col4:
-          min_year, max_year = st.slider('Elegir años entre',
-                              min_value=data['fecha_hora'].dt.to_period('Y').min().year,
-                              max_value=data['fecha_hora'].dt.to_period('Y').max().year,
-                              value=(data['fecha_hora'].dt.to_period('Y').min().year, data['fecha_hora'].dt.to_period('Y').max().year))
+          pass
+          # min_year, max_year = st.slider('Elegir años entre',
+          #                     min_value=data['fecha_hora'].dt.to_period('Y').min().year,
+          #                     max_value=data['fecha_hora'].dt.to_period('Y').max().year,
+          #                     value=(data['fecha_hora'].dt.to_period('Y').min().year, data['fecha_hora'].dt.to_period('Y').max().year))
 
         if fatalidad == 'FATAL':
             fatalidad = ['FATAL']
@@ -127,15 +200,9 @@ class App:
             data = data.query(f"gravedad in ['GRAVE','FATAL']")
 
         tiempo_container = st.container()
-        
-        st.markdown(
-        """
-        <div style='border: 1px solid lightgray; border-radius: 5px; padding: 10px; background-color: lightgray;'>
-        """,  unsafe_allow_html=True
-        )
-        
+               
         with tiempo_container:
-          tab_tiempo_gr, tab_tiempo_da = st.tabs(['Gráfico', 'Datos'])
+          tab_tiempo_gr, tab_tiempo_da = st.tabs(['Histórico', 'Por día Semana'])
 
           with tab_tiempo_gr:
             grouped_data = self.set_accidentes.copy()
@@ -167,11 +234,11 @@ class App:
 
 
             fig = px.bar(grouped_data, x=intervalo, y='n_accidentes',
-                title='Accidentes el tiempo',
                 color='n_accidentes',
                 color_continuous_scale=["lightgreen", "yellow", "red"],
                         text='text',
-                labels={'fecha_hora': 'Fecha', 'n_accidentes': 'Nro Accidentes'})
+                labels={'fecha_hora': 'Fecha', 'n_accidentes': 'Nro Accidentes', 'anio': 'Año', 'semestre':'Semestre', 'mes':'Mes'},
+                template='seaborn')
 
             fig.update_xaxes(ticks="inside", ticklabelmode='period')
             fig.update_traces(textposition='outside', textfont=dict(size=14, color='black', family='Arial'))
@@ -189,12 +256,23 @@ class App:
                 trace.update(
                     textfont_color=['green' if float(inv(text)) < 0.0 else 'red' if float(inv(text)) > 0.0 else 'white' for text in
                                     trace.text])
+
+            fig.update_layout(paper_bgcolor="#fafafa")
             
-            st.plotly_chart(fig, width=400, height=30)
+            padding = 0.1
+            fig.update_layout(yaxis=dict(range=[0, grouped_data['n_accidentes'].max() * (1 + padding)]),showlegend=False)
+            
+            #col_gr_1, col_gr_2 = st.columns((2))
+            
+            #with col_gr_1:
+            st.subheader("Histórico de Accidentes ")
+            st.plotly_chart(fig, use_container_width=True, height=30)
+            #with col_gr_2:
+            #  st.plotly_chart(showPiePx(self.set_accidentes.query(f'gravedad == {fatalidad} and fecha_hora.dt.year <= {max_year}')['victima']), use_container_width=True, height=30)
 
           with tab_tiempo_da:
             st.dataframe(grouped_data)
-        st.markdown("</div>", unsafe_allow_html=True)
+        # st.markdown("</div>", unsafe_allow_html=True)
         tab_dias_gr, tab_dias_da = st.tabs(['Gráfico', 'Datos'])
         
         with tab_dias_gr:
