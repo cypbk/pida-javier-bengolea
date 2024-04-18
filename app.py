@@ -13,6 +13,8 @@ from shapely.geometry import shape
 import json
 import plotly.graph_objs as go
 import numpy as np
+import warnings
+warnings.filters('ignore')
 
 # Set locale to Spanish
 locale.setlocale(locale.LC_TIME, 'es_ES.UTF-8')
