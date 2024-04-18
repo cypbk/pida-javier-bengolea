@@ -140,6 +140,7 @@ class App:
         self.load_data()
         st.markdown('''<style>div.block-container{padding-top: 1rem}        </style>''', unsafe_allow_html=True)
         st.header(" :bar_chart: Análisis de Accidentes Viales")  
+        st.markdown('<br></br>', unsafe_allow_html=True)
 
         data = self.set_accidentes.query("data_geo").copy()
         data['cruce_st'] = data['es_cruce'].map({False:'Calle', True:'Esquina'})
@@ -169,6 +170,8 @@ class App:
           df_pob_comunas = pd.read_csv('data/generated/data_comunas_pob.csv')
           # df_pob_comunas['comuna'] = df_pob_comunas['comuna'].astype(int)
           poblacion = df_pob_comunas['poblacion'].sum()
+          # st.write('Poblacion: ' + str(poblacion))
+          # st.write('Víctimas: ' + str(self.set_accidentes.query(f"gravedad == '{fatalidad}'")['n_victimas'].sum()))
 
           data = self.set_accidentes.copy()
           # data = data[~data['comuna'].isin(['SD', 'No Especificada'])].query("gravedad == 'FATAL'")
@@ -237,12 +240,22 @@ class App:
 
           with kpi_cl1:
             st.plotly_chart(kp1_tasa_homicidios.get_figure(), use_container_width=True, height=150)
-            with st.expander('Indicador'):
-              st.write("Indicador 1")
+            with st.expander('Tasa de Homicidios'):
+              st.write("Métrica: Tasa de Homicidios por 100.000 habitantes.")
+              st.write("Objetivo: Reducir al menos en un 10%.")
+              st.write("Periodo: Semestral.")
           with kpi_cl2:
             st.plotly_chart(kp1_tasa_hm_moto.get_figure(), use_container_width=True)
+            with st.expander('Tasa de Homicidios Motociclistas'):
+              st.write("Métrica: Tasa de Homicidios de Motociclistas por 100.000 habitantes.")
+              st.write("Objetivo: Reducir al menos en un 7%.")
+              st.write("Periodo: Anual.")            
           with kpi_cl3:
             st.plotly_chart(kp1_tasa_hm_horas_max.get_figure(), use_container_width=True)
+            with st.expander('Tasa de Homicidios Horas Máximas'):
+              st.write("Métrica: Tasa de Homicidios en Horas Máximas por 100.000 habitantes. Días Sábado, 'Domingo' de 6 am a 12 am.")
+              st.write("Objetivo: Reducir al menos en un 10%.")
+              st.write("Periodo: Semestral.")       
 
         col1, col2, col3, col4 = st.columns([.2,.2,.2,.4])
         
@@ -353,7 +366,7 @@ class App:
                 lambda x: f"{'{:.2f}'.format(x)}" if x > 0 else f"{round(x,2)}")
 
             summary_df['text'] = summary_df['text'].apply(lambda st: (str(st) + '% ↓') if float(st) < 0.0 else ' = 'if float(st) == 0.0 else(str(st) + '% ↑'))
-            fig = px.bar(summary_df, x=intervalo, y='tasa',
+            fig = px.bar(summary_df, x='semestre', y='tasa',
                 color='tasa',
                 text='tasa',
                 color_continuous_scale=["lightgreen", "yellow", "red"],
