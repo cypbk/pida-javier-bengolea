@@ -14,7 +14,7 @@ import json
 import plotly.graph_objs as go
 import numpy as np
 import warnings
-warnings.filters('ignore')
+warnings.filterwarnings('ignore')
 
 # Set locale to Spanish
 locale.setlocale(locale.LC_TIME, 'es_ES.UTF-8')
